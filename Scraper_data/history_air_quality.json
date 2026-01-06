@@ -1,0 +1,5402 @@
+[
+    {
+        "id": 1,
+        "City": "Hanoi",
+        "Country": "Vietnam",
+        "AQI": 127,
+        "PM25": 101.6,
+        "PM10": 162.6,
+        "Date": "2026-01-06"
+    },
+    {
+        "id": 2,
+        "City": "Saigon",
+        "Country": "Vietnam",
+        "AQI": 85,
+        "PM25": 68.0,
+        "PM10": 108.8,
+        "Date": "2026-01-06"
+    },
+    {
+        "id": 3,
+        "City": "Perth",
+        "Country": "Australia",
+        "AQI": 15,
+        "PM25": 12.0,
+        "PM10": 15.6,
+        "Date": "2026-01-06"
+    },
+    {
+        "id": 4,
+        "City": "Bangkok",
+        "Country": "Thailand",
+        "AQI": 121,
+        "PM25": 96.8,
+        "PM10": 154.9,
+        "Date": "2026-01-06"
+    },
+    {
+        "id": 5,
+        "City": "Singapore",
+        "Country": "Singapore",
+        "AQI": 46,
+        "PM25": 36.8,
+        "PM10": 51.5,
+        "Date": "2026-01-06"
+    },
+    {
+        "id": 6,
+        "City": "Kuala Lumpur",
+        "Country": "Malaysia",
+        "AQI": 60,
+        "PM25": 48.0,
+        "PM10": 72.0,
+        "Date": "2026-01-06"
+    },
+    {
+        "id": 7,
+        "City": "Jakarta",
+        "Country": "Indonesia",
+        "AQI": 168,
+        "PM25": 134.4,
+        "PM10": 215.0,
+        "Date": "2026-01-06"
+    },
+    {
+        "id": 8,
+        "City": "Manila",
+        "Country": "Philippines",
+        "AQI": 98,
+        "PM25": 78.4,
+        "PM10": 125.4,
+        "Date": "2026-01-06"
+    },
+    {
+        "id": 9,
+        "City": "Beijing",
+        "Country": "China",
+        "AQI": 126,
+        "PM25": 100.8,
+        "PM10": 161.3,
+        "Date": "2026-01-06"
+    },
+    {
+        "id": 10,
+        "City": "Shanghai",
+        "Country": "China",
+        "AQI": 97,
+        "PM25": 77.6,
+        "PM10": 124.2,
+        "Date": "2026-01-06"
+    },
+    {
+        "id": 11,
+        "City": "Hanoi",
+        "Country": "Vietnam",
+        "AQI": 141,
+        "PM25": 112.8,
+        "PM10": 180.5,
+        "Date": "2026-01-05"
+    },
+    {
+        "id": 12,
+        "City": "Saigon",
+        "Country": "Vietnam",
+        "AQI": 94,
+        "PM25": 75.2,
+        "PM10": 120.3,
+        "Date": "2026-01-05"
+    },
+    {
+        "id": 13,
+        "City": "Perth",
+        "Country": "Australia",
+        "AQI": 13,
+        "PM25": 10.4,
+        "PM10": 13.5,
+        "Date": "2026-01-05"
+    },
+    {
+        "id": 14,
+        "City": "Bangkok",
+        "Country": "Thailand",
+        "AQI": 118,
+        "PM25": 94.4,
+        "PM10": 151.0,
+        "Date": "2026-01-05"
+    },
+    {
+        "id": 15,
+        "City": "Singapore",
+        "Country": "Singapore",
+        "AQI": 64,
+        "PM25": 51.2,
+        "PM10": 71.7,
+        "Date": "2026-01-05"
+    },
+    {
+        "id": 16,
+        "City": "Kuala Lumpur",
+        "Country": "Malaysia",
+        "AQI": 59,
+        "PM25": 47.2,
+        "PM10": 70.8,
+        "Date": "2026-01-05"
+    },
+    {
+        "id": 17,
+        "City": "Jakarta",
+        "Country": "Indonesia",
+        "AQI": 137,
+        "PM25": 109.6,
+        "PM10": 175.4,
+        "Date": "2026-01-05"
+    },
+    {
+        "id": 18,
+        "City": "Manila",
+        "Country": "Philippines",
+        "AQI": 108,
+        "PM25": 86.4,
+        "PM10": 138.2,
+        "Date": "2026-01-05"
+    },
+    {
+        "id": 19,
+        "City": "Beijing",
+        "Country": "China",
+        "AQI": 197,
+        "PM25": 157.6,
+        "PM10": 252.2,
+        "Date": "2026-01-05"
+    },
+    {
+        "id": 20,
+        "City": "Shanghai",
+        "Country": "China",
+        "AQI": 96,
+        "PM25": 76.8,
+        "PM10": 122.9,
+        "Date": "2026-01-05"
+    },
+    {
+        "id": 21,
+        "City": "Hanoi",
+        "Country": "Vietnam",
+        "AQI": 173,
+        "PM25": 138.4,
+        "PM10": 221.4,
+        "Date": "2026-01-04"
+    },
+    {
+        "id": 22,
+        "City": "Saigon",
+        "Country": "Vietnam",
+        "AQI": 121,
+        "PM25": 96.8,
+        "PM10": 154.9,
+        "Date": "2026-01-04"
+    },
+    {
+        "id": 23,
+        "City": "Perth",
+        "Country": "Australia",
+        "AQI": 17,
+        "PM25": 13.6,
+        "PM10": 17.7,
+        "Date": "2026-01-04"
+    },
+    {
+        "id": 24,
+        "City": "Bangkok",
+        "Country": "Thailand",
+        "AQI": 133,
+        "PM25": 106.4,
+        "PM10": 170.2,
+        "Date": "2026-01-04"
+    },
+    {
+        "id": 25,
+        "City": "Singapore",
+        "Country": "Singapore",
+        "AQI": 42,
+        "PM25": 33.6,
+        "PM10": 47.0,
+        "Date": "2026-01-04"
+    },
+    {
+        "id": 26,
+        "City": "Kuala Lumpur",
+        "Country": "Malaysia",
+        "AQI": 67,
+        "PM25": 53.6,
+        "PM10": 80.4,
+        "Date": "2026-01-04"
+    },
+    {
+        "id": 27,
+        "City": "Jakarta",
+        "Country": "Indonesia",
+        "AQI": 122,
+        "PM25": 97.6,
+        "PM10": 156.2,
+        "Date": "2026-01-04"
+    },
+    {
+        "id": 28,
+        "City": "Manila",
+        "Country": "Philippines",
+        "AQI": 107,
+        "PM25": 85.6,
+        "PM10": 137.0,
+        "Date": "2026-01-04"
+    },
+    {
+        "id": 29,
+        "City": "Beijing",
+        "Country": "China",
+        "AQI": 147,
+        "PM25": 117.6,
+        "PM10": 188.2,
+        "Date": "2026-01-04"
+    },
+    {
+        "id": 30,
+        "City": "Shanghai",
+        "Country": "China",
+        "AQI": 104,
+        "PM25": 83.2,
+        "PM10": 133.1,
+        "Date": "2026-01-04"
+    },
+    {
+        "id": 31,
+        "City": "Hanoi",
+        "Country": "Vietnam",
+        "AQI": 165,
+        "PM25": 132.0,
+        "PM10": 211.2,
+        "Date": "2026-01-03"
+    },
+    {
+        "id": 32,
+        "City": "Saigon",
+        "Country": "Vietnam",
+        "AQI": 119,
+        "PM25": 95.2,
+        "PM10": 152.3,
+        "Date": "2026-01-03"
+    },
+    {
+        "id": 33,
+        "City": "Perth",
+        "Country": "Australia",
+        "AQI": 10,
+        "PM25": 8.0,
+        "PM10": 10.4,
+        "Date": "2026-01-03"
+    },
+    {
+        "id": 34,
+        "City": "Bangkok",
+        "Country": "Thailand",
+        "AQI": 118,
+        "PM25": 94.4,
+        "PM10": 151.0,
+        "Date": "2026-01-03"
+    },
+    {
+        "id": 35,
+        "City": "Singapore",
+        "Country": "Singapore",
+        "AQI": 51,
+        "PM25": 40.8,
+        "PM10": 57.1,
+        "Date": "2026-01-03"
+    },
+    {
+        "id": 36,
+        "City": "Kuala Lumpur",
+        "Country": "Malaysia",
+        "AQI": 75,
+        "PM25": 60.0,
+        "PM10": 90.0,
+        "Date": "2026-01-03"
+    },
+    {
+        "id": 37,
+        "City": "Jakarta",
+        "Country": "Indonesia",
+        "AQI": 150,
+        "PM25": 120.0,
+        "PM10": 192.0,
+        "Date": "2026-01-03"
+    },
+    {
+        "id": 38,
+        "City": "Manila",
+        "Country": "Philippines",
+        "AQI": 81,
+        "PM25": 64.8,
+        "PM10": 103.7,
+        "Date": "2026-01-03"
+    },
+    {
+        "id": 39,
+        "City": "Beijing",
+        "Country": "China",
+        "AQI": 187,
+        "PM25": 149.6,
+        "PM10": 239.4,
+        "Date": "2026-01-03"
+    },
+    {
+        "id": 40,
+        "City": "Shanghai",
+        "Country": "China",
+        "AQI": 103,
+        "PM25": 82.4,
+        "PM10": 131.8,
+        "Date": "2026-01-03"
+    },
+    {
+        "id": 41,
+        "City": "Hanoi",
+        "Country": "Vietnam",
+        "AQI": 138,
+        "PM25": 110.4,
+        "PM10": 176.6,
+        "Date": "2026-01-02"
+    },
+    {
+        "id": 42,
+        "City": "Saigon",
+        "Country": "Vietnam",
+        "AQI": 84,
+        "PM25": 67.2,
+        "PM10": 107.5,
+        "Date": "2026-01-02"
+    },
+    {
+        "id": 43,
+        "City": "Perth",
+        "Country": "Australia",
+        "AQI": 12,
+        "PM25": 9.6,
+        "PM10": 12.5,
+        "Date": "2026-01-02"
+    },
+    {
+        "id": 44,
+        "City": "Bangkok",
+        "Country": "Thailand",
+        "AQI": 118,
+        "PM25": 94.4,
+        "PM10": 151.0,
+        "Date": "2026-01-02"
+    },
+    {
+        "id": 45,
+        "City": "Singapore",
+        "Country": "Singapore",
+        "AQI": 44,
+        "PM25": 35.2,
+        "PM10": 49.3,
+        "Date": "2026-01-02"
+    },
+    {
+        "id": 46,
+        "City": "Kuala Lumpur",
+        "Country": "Malaysia",
+        "AQI": 80,
+        "PM25": 64.0,
+        "PM10": 96.0,
+        "Date": "2026-01-02"
+    },
+    {
+        "id": 47,
+        "City": "Jakarta",
+        "Country": "Indonesia",
+        "AQI": 146,
+        "PM25": 116.8,
+        "PM10": 186.9,
+        "Date": "2026-01-02"
+    },
+    {
+        "id": 48,
+        "City": "Manila",
+        "Country": "Philippines",
+        "AQI": 87,
+        "PM25": 69.6,
+        "PM10": 111.4,
+        "Date": "2026-01-02"
+    },
+    {
+        "id": 49,
+        "City": "Beijing",
+        "Country": "China",
+        "AQI": 83,
+        "PM25": 66.4,
+        "PM10": 106.2,
+        "Date": "2026-01-02"
+    },
+    {
+        "id": 50,
+        "City": "Shanghai",
+        "Country": "China",
+        "AQI": 122,
+        "PM25": 97.6,
+        "PM10": 156.2,
+        "Date": "2026-01-02"
+    },
+    {
+        "id": 51,
+        "City": "Hanoi",
+        "Country": "Vietnam",
+        "AQI": 150,
+        "PM25": 120.0,
+        "PM10": 192.0,
+        "Date": "2026-01-01"
+    },
+    {
+        "id": 52,
+        "City": "Saigon",
+        "Country": "Vietnam",
+        "AQI": 98,
+        "PM25": 78.4,
+        "PM10": 125.4,
+        "Date": "2026-01-01"
+    },
+    {
+        "id": 53,
+        "City": "Perth",
+        "Country": "Australia",
+        "AQI": 21,
+        "PM25": 16.8,
+        "PM10": 21.8,
+        "Date": "2026-01-01"
+    },
+    {
+        "id": 54,
+        "City": "Bangkok",
+        "Country": "Thailand",
+        "AQI": 104,
+        "PM25": 83.2,
+        "PM10": 133.1,
+        "Date": "2026-01-01"
+    },
+    {
+        "id": 55,
+        "City": "Singapore",
+        "Country": "Singapore",
+        "AQI": 63,
+        "PM25": 50.4,
+        "PM10": 70.6,
+        "Date": "2026-01-01"
+    },
+    {
+        "id": 56,
+        "City": "Kuala Lumpur",
+        "Country": "Malaysia",
+        "AQI": 82,
+        "PM25": 65.6,
+        "PM10": 98.4,
+        "Date": "2026-01-01"
+    },
+    {
+        "id": 57,
+        "City": "Jakarta",
+        "Country": "Indonesia",
+        "AQI": 122,
+        "PM25": 97.6,
+        "PM10": 156.2,
+        "Date": "2026-01-01"
+    },
+    {
+        "id": 58,
+        "City": "Manila",
+        "Country": "Philippines",
+        "AQI": 114,
+        "PM25": 91.2,
+        "PM10": 145.9,
+        "Date": "2026-01-01"
+    },
+    {
+        "id": 59,
+        "City": "Beijing",
+        "Country": "China",
+        "AQI": 91,
+        "PM25": 72.8,
+        "PM10": 116.5,
+        "Date": "2026-01-01"
+    },
+    {
+        "id": 60,
+        "City": "Shanghai",
+        "Country": "China",
+        "AQI": 163,
+        "PM25": 130.4,
+        "PM10": 208.6,
+        "Date": "2026-01-01"
+    },
+    {
+        "id": 61,
+        "City": "Hanoi",
+        "Country": "Vietnam",
+        "AQI": 149,
+        "PM25": 119.2,
+        "PM10": 190.7,
+        "Date": "2025-12-31"
+    },
+    {
+        "id": 62,
+        "City": "Saigon",
+        "Country": "Vietnam",
+        "AQI": 100,
+        "PM25": 80.0,
+        "PM10": 128.0,
+        "Date": "2025-12-31"
+    },
+    {
+        "id": 63,
+        "City": "Perth",
+        "Country": "Australia",
+        "AQI": 23,
+        "PM25": 18.4,
+        "PM10": 23.9,
+        "Date": "2025-12-31"
+    },
+    {
+        "id": 64,
+        "City": "Bangkok",
+        "Country": "Thailand",
+        "AQI": 112,
+        "PM25": 89.6,
+        "PM10": 143.4,
+        "Date": "2025-12-31"
+    },
+    {
+        "id": 65,
+        "City": "Singapore",
+        "Country": "Singapore",
+        "AQI": 55,
+        "PM25": 44.0,
+        "PM10": 61.6,
+        "Date": "2025-12-31"
+    },
+    {
+        "id": 66,
+        "City": "Kuala Lumpur",
+        "Country": "Malaysia",
+        "AQI": 56,
+        "PM25": 44.8,
+        "PM10": 67.2,
+        "Date": "2025-12-31"
+    },
+    {
+        "id": 67,
+        "City": "Jakarta",
+        "Country": "Indonesia",
+        "AQI": 134,
+        "PM25": 107.2,
+        "PM10": 171.5,
+        "Date": "2025-12-31"
+    },
+    {
+        "id": 68,
+        "City": "Manila",
+        "Country": "Philippines",
+        "AQI": 96,
+        "PM25": 76.8,
+        "PM10": 122.9,
+        "Date": "2025-12-31"
+    },
+    {
+        "id": 69,
+        "City": "Beijing",
+        "Country": "China",
+        "AQI": 83,
+        "PM25": 66.4,
+        "PM10": 106.2,
+        "Date": "2025-12-31"
+    },
+    {
+        "id": 70,
+        "City": "Shanghai",
+        "Country": "China",
+        "AQI": 150,
+        "PM25": 120.0,
+        "PM10": 192.0,
+        "Date": "2025-12-31"
+    },
+    {
+        "id": 71,
+        "City": "Hanoi",
+        "Country": "Vietnam",
+        "AQI": 159,
+        "PM25": 127.2,
+        "PM10": 203.5,
+        "Date": "2025-12-30"
+    },
+    {
+        "id": 72,
+        "City": "Saigon",
+        "Country": "Vietnam",
+        "AQI": 114,
+        "PM25": 91.2,
+        "PM10": 145.9,
+        "Date": "2025-12-30"
+    },
+    {
+        "id": 73,
+        "City": "Perth",
+        "Country": "Australia",
+        "AQI": 25,
+        "PM25": 20.0,
+        "PM10": 26.0,
+        "Date": "2025-12-30"
+    },
+    {
+        "id": 74,
+        "City": "Bangkok",
+        "Country": "Thailand",
+        "AQI": 106,
+        "PM25": 84.8,
+        "PM10": 135.7,
+        "Date": "2025-12-30"
+    },
+    {
+        "id": 75,
+        "City": "Singapore",
+        "Country": "Singapore",
+        "AQI": 65,
+        "PM25": 52.0,
+        "PM10": 72.8,
+        "Date": "2025-12-30"
+    },
+    {
+        "id": 76,
+        "City": "Kuala Lumpur",
+        "Country": "Malaysia",
+        "AQI": 78,
+        "PM25": 62.4,
+        "PM10": 93.6,
+        "Date": "2025-12-30"
+    },
+    {
+        "id": 77,
+        "City": "Jakarta",
+        "Country": "Indonesia",
+        "AQI": 140,
+        "PM25": 112.0,
+        "PM10": 179.2,
+        "Date": "2025-12-30"
+    },
+    {
+        "id": 78,
+        "City": "Manila",
+        "Country": "Philippines",
+        "AQI": 96,
+        "PM25": 76.8,
+        "PM10": 122.9,
+        "Date": "2025-12-30"
+    },
+    {
+        "id": 79,
+        "City": "Beijing",
+        "Country": "China",
+        "AQI": 160,
+        "PM25": 128.0,
+        "PM10": 204.8,
+        "Date": "2025-12-30"
+    },
+    {
+        "id": 80,
+        "City": "Shanghai",
+        "Country": "China",
+        "AQI": 51,
+        "PM25": 40.8,
+        "PM10": 65.3,
+        "Date": "2025-12-30"
+    },
+    {
+        "id": 81,
+        "City": "Hanoi",
+        "Country": "Vietnam",
+        "AQI": 184,
+        "PM25": 147.2,
+        "PM10": 235.5,
+        "Date": "2025-12-29"
+    },
+    {
+        "id": 82,
+        "City": "Saigon",
+        "Country": "Vietnam",
+        "AQI": 93,
+        "PM25": 74.4,
+        "PM10": 119.0,
+        "Date": "2025-12-29"
+    },
+    {
+        "id": 83,
+        "City": "Perth",
+        "Country": "Australia",
+        "AQI": 22,
+        "PM25": 17.6,
+        "PM10": 22.9,
+        "Date": "2025-12-29"
+    },
+    {
+        "id": 84,
+        "City": "Bangkok",
+        "Country": "Thailand",
+        "AQI": 137,
+        "PM25": 109.6,
+        "PM10": 175.4,
+        "Date": "2025-12-29"
+    },
+    {
+        "id": 85,
+        "City": "Singapore",
+        "Country": "Singapore",
+        "AQI": 41,
+        "PM25": 32.8,
+        "PM10": 45.9,
+        "Date": "2025-12-29"
+    },
+    {
+        "id": 86,
+        "City": "Kuala Lumpur",
+        "Country": "Malaysia",
+        "AQI": 85,
+        "PM25": 68.0,
+        "PM10": 102.0,
+        "Date": "2025-12-29"
+    },
+    {
+        "id": 87,
+        "City": "Jakarta",
+        "Country": "Indonesia",
+        "AQI": 144,
+        "PM25": 115.2,
+        "PM10": 184.3,
+        "Date": "2025-12-29"
+    },
+    {
+        "id": 88,
+        "City": "Manila",
+        "Country": "Philippines",
+        "AQI": 80,
+        "PM25": 64.0,
+        "PM10": 102.4,
+        "Date": "2025-12-29"
+    },
+    {
+        "id": 89,
+        "City": "Beijing",
+        "Country": "China",
+        "AQI": 137,
+        "PM25": 109.6,
+        "PM10": 175.4,
+        "Date": "2025-12-29"
+    },
+    {
+        "id": 90,
+        "City": "Shanghai",
+        "Country": "China",
+        "AQI": 55,
+        "PM25": 44.0,
+        "PM10": 70.4,
+        "Date": "2025-12-29"
+    },
+    {
+        "id": 91,
+        "City": "Hanoi",
+        "Country": "Vietnam",
+        "AQI": 165,
+        "PM25": 132.0,
+        "PM10": 211.2,
+        "Date": "2025-12-28"
+    },
+    {
+        "id": 92,
+        "City": "Saigon",
+        "Country": "Vietnam",
+        "AQI": 119,
+        "PM25": 95.2,
+        "PM10": 152.3,
+        "Date": "2025-12-28"
+    },
+    {
+        "id": 93,
+        "City": "Perth",
+        "Country": "Australia",
+        "AQI": 10,
+        "PM25": 8.0,
+        "PM10": 10.4,
+        "Date": "2025-12-28"
+    },
+    {
+        "id": 94,
+        "City": "Bangkok",
+        "Country": "Thailand",
+        "AQI": 134,
+        "PM25": 107.2,
+        "PM10": 171.5,
+        "Date": "2025-12-28"
+    },
+    {
+        "id": 95,
+        "City": "Singapore",
+        "Country": "Singapore",
+        "AQI": 59,
+        "PM25": 47.2,
+        "PM10": 66.1,
+        "Date": "2025-12-28"
+    },
+    {
+        "id": 96,
+        "City": "Kuala Lumpur",
+        "Country": "Malaysia",
+        "AQI": 65,
+        "PM25": 52.0,
+        "PM10": 78.0,
+        "Date": "2025-12-28"
+    },
+    {
+        "id": 97,
+        "City": "Jakarta",
+        "Country": "Indonesia",
+        "AQI": 169,
+        "PM25": 135.2,
+        "PM10": 216.3,
+        "Date": "2025-12-28"
+    },
+    {
+        "id": 98,
+        "City": "Manila",
+        "Country": "Philippines",
+        "AQI": 93,
+        "PM25": 74.4,
+        "PM10": 119.0,
+        "Date": "2025-12-28"
+    },
+    {
+        "id": 99,
+        "City": "Beijing",
+        "Country": "China",
+        "AQI": 140,
+        "PM25": 112.0,
+        "PM10": 179.2,
+        "Date": "2025-12-28"
+    },
+    {
+        "id": 100,
+        "City": "Shanghai",
+        "Country": "China",
+        "AQI": 158,
+        "PM25": 126.4,
+        "PM10": 202.2,
+        "Date": "2025-12-28"
+    },
+    {
+        "id": 101,
+        "City": "Hanoi",
+        "Country": "Vietnam",
+        "AQI": 131,
+        "PM25": 104.8,
+        "PM10": 167.7,
+        "Date": "2025-12-27"
+    },
+    {
+        "id": 102,
+        "City": "Saigon",
+        "Country": "Vietnam",
+        "AQI": 125,
+        "PM25": 100.0,
+        "PM10": 160.0,
+        "Date": "2025-12-27"
+    },
+    {
+        "id": 103,
+        "City": "Perth",
+        "Country": "Australia",
+        "AQI": 38,
+        "PM25": 30.4,
+        "PM10": 39.5,
+        "Date": "2025-12-27"
+    },
+    {
+        "id": 104,
+        "City": "Bangkok",
+        "Country": "Thailand",
+        "AQI": 102,
+        "PM25": 81.6,
+        "PM10": 130.6,
+        "Date": "2025-12-27"
+    },
+    {
+        "id": 105,
+        "City": "Singapore",
+        "Country": "Singapore",
+        "AQI": 62,
+        "PM25": 49.6,
+        "PM10": 69.4,
+        "Date": "2025-12-27"
+    },
+    {
+        "id": 106,
+        "City": "Kuala Lumpur",
+        "Country": "Malaysia",
+        "AQI": 65,
+        "PM25": 52.0,
+        "PM10": 78.0,
+        "Date": "2025-12-27"
+    },
+    {
+        "id": 107,
+        "City": "Jakarta",
+        "Country": "Indonesia",
+        "AQI": 164,
+        "PM25": 131.2,
+        "PM10": 209.9,
+        "Date": "2025-12-27"
+    },
+    {
+        "id": 108,
+        "City": "Manila",
+        "Country": "Philippines",
+        "AQI": 75,
+        "PM25": 60.0,
+        "PM10": 96.0,
+        "Date": "2025-12-27"
+    },
+    {
+        "id": 109,
+        "City": "Beijing",
+        "Country": "China",
+        "AQI": 186,
+        "PM25": 148.8,
+        "PM10": 238.1,
+        "Date": "2025-12-27"
+    },
+    {
+        "id": 110,
+        "City": "Shanghai",
+        "Country": "China",
+        "AQI": 91,
+        "PM25": 72.8,
+        "PM10": 116.5,
+        "Date": "2025-12-27"
+    },
+    {
+        "id": 111,
+        "City": "Hanoi",
+        "Country": "Vietnam",
+        "AQI": 156,
+        "PM25": 124.8,
+        "PM10": 199.7,
+        "Date": "2025-12-26"
+    },
+    {
+        "id": 112,
+        "City": "Saigon",
+        "Country": "Vietnam",
+        "AQI": 70,
+        "PM25": 56.0,
+        "PM10": 89.6,
+        "Date": "2025-12-26"
+    },
+    {
+        "id": 113,
+        "City": "Perth",
+        "Country": "Australia",
+        "AQI": 27,
+        "PM25": 21.6,
+        "PM10": 28.1,
+        "Date": "2025-12-26"
+    },
+    {
+        "id": 114,
+        "City": "Bangkok",
+        "Country": "Thailand",
+        "AQI": 125,
+        "PM25": 100.0,
+        "PM10": 160.0,
+        "Date": "2025-12-26"
+    },
+    {
+        "id": 115,
+        "City": "Singapore",
+        "Country": "Singapore",
+        "AQI": 60,
+        "PM25": 48.0,
+        "PM10": 67.2,
+        "Date": "2025-12-26"
+    },
+    {
+        "id": 116,
+        "City": "Kuala Lumpur",
+        "Country": "Malaysia",
+        "AQI": 78,
+        "PM25": 62.4,
+        "PM10": 93.6,
+        "Date": "2025-12-26"
+    },
+    {
+        "id": 117,
+        "City": "Jakarta",
+        "Country": "Indonesia",
+        "AQI": 163,
+        "PM25": 130.4,
+        "PM10": 208.6,
+        "Date": "2025-12-26"
+    },
+    {
+        "id": 118,
+        "City": "Manila",
+        "Country": "Philippines",
+        "AQI": 118,
+        "PM25": 94.4,
+        "PM10": 151.0,
+        "Date": "2025-12-26"
+    },
+    {
+        "id": 119,
+        "City": "Beijing",
+        "Country": "China",
+        "AQI": 169,
+        "PM25": 135.2,
+        "PM10": 216.3,
+        "Date": "2025-12-26"
+    },
+    {
+        "id": 120,
+        "City": "Shanghai",
+        "Country": "China",
+        "AQI": 106,
+        "PM25": 84.8,
+        "PM10": 135.7,
+        "Date": "2025-12-26"
+    },
+    {
+        "id": 121,
+        "City": "Hanoi",
+        "Country": "Vietnam",
+        "AQI": 165,
+        "PM25": 132.0,
+        "PM10": 211.2,
+        "Date": "2025-12-25"
+    },
+    {
+        "id": 122,
+        "City": "Saigon",
+        "Country": "Vietnam",
+        "AQI": 87,
+        "PM25": 69.6,
+        "PM10": 111.4,
+        "Date": "2025-12-25"
+    },
+    {
+        "id": 123,
+        "City": "Perth",
+        "Country": "Australia",
+        "AQI": 20,
+        "PM25": 16.0,
+        "PM10": 20.8,
+        "Date": "2025-12-25"
+    },
+    {
+        "id": 124,
+        "City": "Bangkok",
+        "Country": "Thailand",
+        "AQI": 138,
+        "PM25": 110.4,
+        "PM10": 176.6,
+        "Date": "2025-12-25"
+    },
+    {
+        "id": 125,
+        "City": "Singapore",
+        "Country": "Singapore",
+        "AQI": 50,
+        "PM25": 40.0,
+        "PM10": 56.0,
+        "Date": "2025-12-25"
+    },
+    {
+        "id": 126,
+        "City": "Kuala Lumpur",
+        "Country": "Malaysia",
+        "AQI": 85,
+        "PM25": 68.0,
+        "PM10": 102.0,
+        "Date": "2025-12-25"
+    },
+    {
+        "id": 127,
+        "City": "Jakarta",
+        "Country": "Indonesia",
+        "AQI": 167,
+        "PM25": 133.6,
+        "PM10": 213.8,
+        "Date": "2025-12-25"
+    },
+    {
+        "id": 128,
+        "City": "Manila",
+        "Country": "Philippines",
+        "AQI": 84,
+        "PM25": 67.2,
+        "PM10": 107.5,
+        "Date": "2025-12-25"
+    },
+    {
+        "id": 129,
+        "City": "Beijing",
+        "Country": "China",
+        "AQI": 60,
+        "PM25": 48.0,
+        "PM10": 76.8,
+        "Date": "2025-12-25"
+    },
+    {
+        "id": 130,
+        "City": "Shanghai",
+        "Country": "China",
+        "AQI": 71,
+        "PM25": 56.8,
+        "PM10": 90.9,
+        "Date": "2025-12-25"
+    },
+    {
+        "id": 131,
+        "City": "Hanoi",
+        "Country": "Vietnam",
+        "AQI": 165,
+        "PM25": 132.0,
+        "PM10": 211.2,
+        "Date": "2025-12-24"
+    },
+    {
+        "id": 132,
+        "City": "Saigon",
+        "Country": "Vietnam",
+        "AQI": 119,
+        "PM25": 95.2,
+        "PM10": 152.3,
+        "Date": "2025-12-24"
+    },
+    {
+        "id": 133,
+        "City": "Perth",
+        "Country": "Australia",
+        "AQI": 32,
+        "PM25": 25.6,
+        "PM10": 33.3,
+        "Date": "2025-12-24"
+    },
+    {
+        "id": 134,
+        "City": "Bangkok",
+        "Country": "Thailand",
+        "AQI": 123,
+        "PM25": 98.4,
+        "PM10": 157.4,
+        "Date": "2025-12-24"
+    },
+    {
+        "id": 135,
+        "City": "Singapore",
+        "Country": "Singapore",
+        "AQI": 49,
+        "PM25": 39.2,
+        "PM10": 54.9,
+        "Date": "2025-12-24"
+    },
+    {
+        "id": 136,
+        "City": "Kuala Lumpur",
+        "Country": "Malaysia",
+        "AQI": 78,
+        "PM25": 62.4,
+        "PM10": 93.6,
+        "Date": "2025-12-24"
+    },
+    {
+        "id": 137,
+        "City": "Jakarta",
+        "Country": "Indonesia",
+        "AQI": 164,
+        "PM25": 131.2,
+        "PM10": 209.9,
+        "Date": "2025-12-24"
+    },
+    {
+        "id": 138,
+        "City": "Manila",
+        "Country": "Philippines",
+        "AQI": 77,
+        "PM25": 61.6,
+        "PM10": 98.6,
+        "Date": "2025-12-24"
+    },
+    {
+        "id": 139,
+        "City": "Beijing",
+        "Country": "China",
+        "AQI": 53,
+        "PM25": 42.4,
+        "PM10": 67.8,
+        "Date": "2025-12-24"
+    },
+    {
+        "id": 140,
+        "City": "Shanghai",
+        "Country": "China",
+        "AQI": 171,
+        "PM25": 136.8,
+        "PM10": 218.9,
+        "Date": "2025-12-24"
+    },
+    {
+        "id": 141,
+        "City": "Hanoi",
+        "Country": "Vietnam",
+        "AQI": 141,
+        "PM25": 112.8,
+        "PM10": 180.5,
+        "Date": "2025-12-23"
+    },
+    {
+        "id": 142,
+        "City": "Saigon",
+        "Country": "Vietnam",
+        "AQI": 115,
+        "PM25": 92.0,
+        "PM10": 147.2,
+        "Date": "2025-12-23"
+    },
+    {
+        "id": 143,
+        "City": "Perth",
+        "Country": "Australia",
+        "AQI": 31,
+        "PM25": 24.8,
+        "PM10": 32.2,
+        "Date": "2025-12-23"
+    },
+    {
+        "id": 144,
+        "City": "Bangkok",
+        "Country": "Thailand",
+        "AQI": 149,
+        "PM25": 119.2,
+        "PM10": 190.7,
+        "Date": "2025-12-23"
+    },
+    {
+        "id": 145,
+        "City": "Singapore",
+        "Country": "Singapore",
+        "AQI": 40,
+        "PM25": 32.0,
+        "PM10": 44.8,
+        "Date": "2025-12-23"
+    },
+    {
+        "id": 146,
+        "City": "Kuala Lumpur",
+        "Country": "Malaysia",
+        "AQI": 85,
+        "PM25": 68.0,
+        "PM10": 102.0,
+        "Date": "2025-12-23"
+    },
+    {
+        "id": 147,
+        "City": "Jakarta",
+        "Country": "Indonesia",
+        "AQI": 146,
+        "PM25": 116.8,
+        "PM10": 186.9,
+        "Date": "2025-12-23"
+    },
+    {
+        "id": 148,
+        "City": "Manila",
+        "Country": "Philippines",
+        "AQI": 110,
+        "PM25": 88.0,
+        "PM10": 140.8,
+        "Date": "2025-12-23"
+    },
+    {
+        "id": 149,
+        "City": "Beijing",
+        "Country": "China",
+        "AQI": 106,
+        "PM25": 84.8,
+        "PM10": 135.7,
+        "Date": "2025-12-23"
+    },
+    {
+        "id": 150,
+        "City": "Shanghai",
+        "Country": "China",
+        "AQI": 50,
+        "PM25": 40.0,
+        "PM10": 64.0,
+        "Date": "2025-12-23"
+    },
+    {
+        "id": 151,
+        "City": "Hanoi",
+        "Country": "Vietnam",
+        "AQI": 131,
+        "PM25": 104.8,
+        "PM10": 167.7,
+        "Date": "2025-12-22"
+    },
+    {
+        "id": 152,
+        "City": "Saigon",
+        "Country": "Vietnam",
+        "AQI": 97,
+        "PM25": 77.6,
+        "PM10": 124.2,
+        "Date": "2025-12-22"
+    },
+    {
+        "id": 153,
+        "City": "Perth",
+        "Country": "Australia",
+        "AQI": 37,
+        "PM25": 29.6,
+        "PM10": 38.5,
+        "Date": "2025-12-22"
+    },
+    {
+        "id": 154,
+        "City": "Bangkok",
+        "Country": "Thailand",
+        "AQI": 155,
+        "PM25": 124.0,
+        "PM10": 198.4,
+        "Date": "2025-12-22"
+    },
+    {
+        "id": 155,
+        "City": "Singapore",
+        "Country": "Singapore",
+        "AQI": 61,
+        "PM25": 48.8,
+        "PM10": 68.3,
+        "Date": "2025-12-22"
+    },
+    {
+        "id": 156,
+        "City": "Kuala Lumpur",
+        "Country": "Malaysia",
+        "AQI": 71,
+        "PM25": 56.8,
+        "PM10": 85.2,
+        "Date": "2025-12-22"
+    },
+    {
+        "id": 157,
+        "City": "Jakarta",
+        "Country": "Indonesia",
+        "AQI": 169,
+        "PM25": 135.2,
+        "PM10": 216.3,
+        "Date": "2025-12-22"
+    },
+    {
+        "id": 158,
+        "City": "Manila",
+        "Country": "Philippines",
+        "AQI": 84,
+        "PM25": 67.2,
+        "PM10": 107.5,
+        "Date": "2025-12-22"
+    },
+    {
+        "id": 159,
+        "City": "Beijing",
+        "Country": "China",
+        "AQI": 51,
+        "PM25": 40.8,
+        "PM10": 65.3,
+        "Date": "2025-12-22"
+    },
+    {
+        "id": 160,
+        "City": "Shanghai",
+        "Country": "China",
+        "AQI": 81,
+        "PM25": 64.8,
+        "PM10": 103.7,
+        "Date": "2025-12-22"
+    },
+    {
+        "id": 161,
+        "City": "Hanoi",
+        "Country": "Vietnam",
+        "AQI": 175,
+        "PM25": 140.0,
+        "PM10": 224.0,
+        "Date": "2025-12-21"
+    },
+    {
+        "id": 162,
+        "City": "Saigon",
+        "Country": "Vietnam",
+        "AQI": 100,
+        "PM25": 80.0,
+        "PM10": 128.0,
+        "Date": "2025-12-21"
+    },
+    {
+        "id": 163,
+        "City": "Perth",
+        "Country": "Australia",
+        "AQI": 26,
+        "PM25": 20.8,
+        "PM10": 27.0,
+        "Date": "2025-12-21"
+    },
+    {
+        "id": 164,
+        "City": "Bangkok",
+        "Country": "Thailand",
+        "AQI": 155,
+        "PM25": 124.0,
+        "PM10": 198.4,
+        "Date": "2025-12-21"
+    },
+    {
+        "id": 165,
+        "City": "Singapore",
+        "Country": "Singapore",
+        "AQI": 61,
+        "PM25": 48.8,
+        "PM10": 68.3,
+        "Date": "2025-12-21"
+    },
+    {
+        "id": 166,
+        "City": "Kuala Lumpur",
+        "Country": "Malaysia",
+        "AQI": 81,
+        "PM25": 64.8,
+        "PM10": 97.2,
+        "Date": "2025-12-21"
+    },
+    {
+        "id": 167,
+        "City": "Jakarta",
+        "Country": "Indonesia",
+        "AQI": 165,
+        "PM25": 132.0,
+        "PM10": 211.2,
+        "Date": "2025-12-21"
+    },
+    {
+        "id": 168,
+        "City": "Manila",
+        "Country": "Philippines",
+        "AQI": 77,
+        "PM25": 61.6,
+        "PM10": 98.6,
+        "Date": "2025-12-21"
+    },
+    {
+        "id": 169,
+        "City": "Beijing",
+        "Country": "China",
+        "AQI": 112,
+        "PM25": 89.6,
+        "PM10": 143.4,
+        "Date": "2025-12-21"
+    },
+    {
+        "id": 170,
+        "City": "Shanghai",
+        "Country": "China",
+        "AQI": 130,
+        "PM25": 104.0,
+        "PM10": 166.4,
+        "Date": "2025-12-21"
+    },
+    {
+        "id": 171,
+        "City": "Hanoi",
+        "Country": "Vietnam",
+        "AQI": 157,
+        "PM25": 125.6,
+        "PM10": 201.0,
+        "Date": "2025-12-20"
+    },
+    {
+        "id": 172,
+        "City": "Saigon",
+        "Country": "Vietnam",
+        "AQI": 114,
+        "PM25": 91.2,
+        "PM10": 145.9,
+        "Date": "2025-12-20"
+    },
+    {
+        "id": 173,
+        "City": "Perth",
+        "Country": "Australia",
+        "AQI": 18,
+        "PM25": 14.4,
+        "PM10": 18.7,
+        "Date": "2025-12-20"
+    },
+    {
+        "id": 174,
+        "City": "Bangkok",
+        "Country": "Thailand",
+        "AQI": 153,
+        "PM25": 122.4,
+        "PM10": 195.8,
+        "Date": "2025-12-20"
+    },
+    {
+        "id": 175,
+        "City": "Singapore",
+        "Country": "Singapore",
+        "AQI": 52,
+        "PM25": 41.6,
+        "PM10": 58.2,
+        "Date": "2025-12-20"
+    },
+    {
+        "id": 176,
+        "City": "Kuala Lumpur",
+        "Country": "Malaysia",
+        "AQI": 62,
+        "PM25": 49.6,
+        "PM10": 74.4,
+        "Date": "2025-12-20"
+    },
+    {
+        "id": 177,
+        "City": "Jakarta",
+        "Country": "Indonesia",
+        "AQI": 125,
+        "PM25": 100.0,
+        "PM10": 160.0,
+        "Date": "2025-12-20"
+    },
+    {
+        "id": 178,
+        "City": "Manila",
+        "Country": "Philippines",
+        "AQI": 78,
+        "PM25": 62.4,
+        "PM10": 99.8,
+        "Date": "2025-12-20"
+    },
+    {
+        "id": 179,
+        "City": "Beijing",
+        "Country": "China",
+        "AQI": 53,
+        "PM25": 42.4,
+        "PM10": 67.8,
+        "Date": "2025-12-20"
+    },
+    {
+        "id": 180,
+        "City": "Shanghai",
+        "Country": "China",
+        "AQI": 81,
+        "PM25": 64.8,
+        "PM10": 103.7,
+        "Date": "2025-12-20"
+    },
+    {
+        "id": 181,
+        "City": "Hanoi",
+        "Country": "Vietnam",
+        "AQI": 164,
+        "PM25": 131.2,
+        "PM10": 209.9,
+        "Date": "2025-12-19"
+    },
+    {
+        "id": 182,
+        "City": "Saigon",
+        "Country": "Vietnam",
+        "AQI": 78,
+        "PM25": 62.4,
+        "PM10": 99.8,
+        "Date": "2025-12-19"
+    },
+    {
+        "id": 183,
+        "City": "Perth",
+        "Country": "Australia",
+        "AQI": 11,
+        "PM25": 8.8,
+        "PM10": 11.4,
+        "Date": "2025-12-19"
+    },
+    {
+        "id": 184,
+        "City": "Bangkok",
+        "Country": "Thailand",
+        "AQI": 132,
+        "PM25": 105.6,
+        "PM10": 169.0,
+        "Date": "2025-12-19"
+    },
+    {
+        "id": 185,
+        "City": "Singapore",
+        "Country": "Singapore",
+        "AQI": 50,
+        "PM25": 40.0,
+        "PM10": 56.0,
+        "Date": "2025-12-19"
+    },
+    {
+        "id": 186,
+        "City": "Kuala Lumpur",
+        "Country": "Malaysia",
+        "AQI": 53,
+        "PM25": 42.4,
+        "PM10": 63.6,
+        "Date": "2025-12-19"
+    },
+    {
+        "id": 187,
+        "City": "Jakarta",
+        "Country": "Indonesia",
+        "AQI": 157,
+        "PM25": 125.6,
+        "PM10": 201.0,
+        "Date": "2025-12-19"
+    },
+    {
+        "id": 188,
+        "City": "Manila",
+        "Country": "Philippines",
+        "AQI": 78,
+        "PM25": 62.4,
+        "PM10": 99.8,
+        "Date": "2025-12-19"
+    },
+    {
+        "id": 189,
+        "City": "Beijing",
+        "Country": "China",
+        "AQI": 77,
+        "PM25": 61.6,
+        "PM10": 98.6,
+        "Date": "2025-12-19"
+    },
+    {
+        "id": 190,
+        "City": "Shanghai",
+        "Country": "China",
+        "AQI": 76,
+        "PM25": 60.8,
+        "PM10": 97.3,
+        "Date": "2025-12-19"
+    },
+    {
+        "id": 191,
+        "City": "Hanoi",
+        "Country": "Vietnam",
+        "AQI": 158,
+        "PM25": 126.4,
+        "PM10": 202.2,
+        "Date": "2025-12-18"
+    },
+    {
+        "id": 192,
+        "City": "Saigon",
+        "Country": "Vietnam",
+        "AQI": 85,
+        "PM25": 68.0,
+        "PM10": 108.8,
+        "Date": "2025-12-18"
+    },
+    {
+        "id": 193,
+        "City": "Perth",
+        "Country": "Australia",
+        "AQI": 31,
+        "PM25": 24.8,
+        "PM10": 32.2,
+        "Date": "2025-12-18"
+    },
+    {
+        "id": 194,
+        "City": "Bangkok",
+        "Country": "Thailand",
+        "AQI": 107,
+        "PM25": 85.6,
+        "PM10": 137.0,
+        "Date": "2025-12-18"
+    },
+    {
+        "id": 195,
+        "City": "Singapore",
+        "Country": "Singapore",
+        "AQI": 59,
+        "PM25": 47.2,
+        "PM10": 66.1,
+        "Date": "2025-12-18"
+    },
+    {
+        "id": 196,
+        "City": "Kuala Lumpur",
+        "Country": "Malaysia",
+        "AQI": 68,
+        "PM25": 54.4,
+        "PM10": 81.6,
+        "Date": "2025-12-18"
+    },
+    {
+        "id": 197,
+        "City": "Jakarta",
+        "Country": "Indonesia",
+        "AQI": 130,
+        "PM25": 104.0,
+        "PM10": 166.4,
+        "Date": "2025-12-18"
+    },
+    {
+        "id": 198,
+        "City": "Manila",
+        "Country": "Philippines",
+        "AQI": 101,
+        "PM25": 80.8,
+        "PM10": 129.3,
+        "Date": "2025-12-18"
+    },
+    {
+        "id": 199,
+        "City": "Beijing",
+        "Country": "China",
+        "AQI": 64,
+        "PM25": 51.2,
+        "PM10": 81.9,
+        "Date": "2025-12-18"
+    },
+    {
+        "id": 200,
+        "City": "Shanghai",
+        "Country": "China",
+        "AQI": 165,
+        "PM25": 132.0,
+        "PM10": 211.2,
+        "Date": "2025-12-18"
+    },
+    {
+        "id": 201,
+        "City": "Hanoi",
+        "Country": "Vietnam",
+        "AQI": 177,
+        "PM25": 141.6,
+        "PM10": 226.6,
+        "Date": "2025-12-17"
+    },
+    {
+        "id": 202,
+        "City": "Saigon",
+        "Country": "Vietnam",
+        "AQI": 110,
+        "PM25": 88.0,
+        "PM10": 140.8,
+        "Date": "2025-12-17"
+    },
+    {
+        "id": 203,
+        "City": "Perth",
+        "Country": "Australia",
+        "AQI": 31,
+        "PM25": 24.8,
+        "PM10": 32.2,
+        "Date": "2025-12-17"
+    },
+    {
+        "id": 204,
+        "City": "Bangkok",
+        "Country": "Thailand",
+        "AQI": 155,
+        "PM25": 124.0,
+        "PM10": 198.4,
+        "Date": "2025-12-17"
+    },
+    {
+        "id": 205,
+        "City": "Singapore",
+        "Country": "Singapore",
+        "AQI": 54,
+        "PM25": 43.2,
+        "PM10": 60.5,
+        "Date": "2025-12-17"
+    },
+    {
+        "id": 206,
+        "City": "Kuala Lumpur",
+        "Country": "Malaysia",
+        "AQI": 86,
+        "PM25": 68.8,
+        "PM10": 103.2,
+        "Date": "2025-12-17"
+    },
+    {
+        "id": 207,
+        "City": "Jakarta",
+        "Country": "Indonesia",
+        "AQI": 162,
+        "PM25": 129.6,
+        "PM10": 207.4,
+        "Date": "2025-12-17"
+    },
+    {
+        "id": 208,
+        "City": "Manila",
+        "Country": "Philippines",
+        "AQI": 73,
+        "PM25": 58.4,
+        "PM10": 93.4,
+        "Date": "2025-12-17"
+    },
+    {
+        "id": 209,
+        "City": "Beijing",
+        "Country": "China",
+        "AQI": 143,
+        "PM25": 114.4,
+        "PM10": 183.0,
+        "Date": "2025-12-17"
+    },
+    {
+        "id": 210,
+        "City": "Shanghai",
+        "Country": "China",
+        "AQI": 91,
+        "PM25": 72.8,
+        "PM10": 116.5,
+        "Date": "2025-12-17"
+    },
+    {
+        "id": 211,
+        "City": "Hanoi",
+        "Country": "Vietnam",
+        "AQI": 152,
+        "PM25": 121.6,
+        "PM10": 194.6,
+        "Date": "2025-12-16"
+    },
+    {
+        "id": 212,
+        "City": "Saigon",
+        "Country": "Vietnam",
+        "AQI": 128,
+        "PM25": 102.4,
+        "PM10": 163.8,
+        "Date": "2025-12-16"
+    },
+    {
+        "id": 213,
+        "City": "Perth",
+        "Country": "Australia",
+        "AQI": 34,
+        "PM25": 27.2,
+        "PM10": 35.4,
+        "Date": "2025-12-16"
+    },
+    {
+        "id": 214,
+        "City": "Bangkok",
+        "Country": "Thailand",
+        "AQI": 113,
+        "PM25": 90.4,
+        "PM10": 144.6,
+        "Date": "2025-12-16"
+    },
+    {
+        "id": 215,
+        "City": "Singapore",
+        "Country": "Singapore",
+        "AQI": 64,
+        "PM25": 51.2,
+        "PM10": 71.7,
+        "Date": "2025-12-16"
+    },
+    {
+        "id": 216,
+        "City": "Kuala Lumpur",
+        "Country": "Malaysia",
+        "AQI": 79,
+        "PM25": 63.2,
+        "PM10": 94.8,
+        "Date": "2025-12-16"
+    },
+    {
+        "id": 217,
+        "City": "Jakarta",
+        "Country": "Indonesia",
+        "AQI": 160,
+        "PM25": 128.0,
+        "PM10": 204.8,
+        "Date": "2025-12-16"
+    },
+    {
+        "id": 218,
+        "City": "Manila",
+        "Country": "Philippines",
+        "AQI": 119,
+        "PM25": 95.2,
+        "PM10": 152.3,
+        "Date": "2025-12-16"
+    },
+    {
+        "id": 219,
+        "City": "Beijing",
+        "Country": "China",
+        "AQI": 159,
+        "PM25": 127.2,
+        "PM10": 203.5,
+        "Date": "2025-12-16"
+    },
+    {
+        "id": 220,
+        "City": "Shanghai",
+        "Country": "China",
+        "AQI": 123,
+        "PM25": 98.4,
+        "PM10": 157.4,
+        "Date": "2025-12-16"
+    },
+    {
+        "id": 221,
+        "City": "Hanoi",
+        "Country": "Vietnam",
+        "AQI": 145,
+        "PM25": 116.0,
+        "PM10": 185.6,
+        "Date": "2025-12-15"
+    },
+    {
+        "id": 222,
+        "City": "Saigon",
+        "Country": "Vietnam",
+        "AQI": 87,
+        "PM25": 69.6,
+        "PM10": 111.4,
+        "Date": "2025-12-15"
+    },
+    {
+        "id": 223,
+        "City": "Perth",
+        "Country": "Australia",
+        "AQI": 24,
+        "PM25": 19.2,
+        "PM10": 25.0,
+        "Date": "2025-12-15"
+    },
+    {
+        "id": 224,
+        "City": "Bangkok",
+        "Country": "Thailand",
+        "AQI": 134,
+        "PM25": 107.2,
+        "PM10": 171.5,
+        "Date": "2025-12-15"
+    },
+    {
+        "id": 225,
+        "City": "Singapore",
+        "Country": "Singapore",
+        "AQI": 45,
+        "PM25": 36.0,
+        "PM10": 50.4,
+        "Date": "2025-12-15"
+    },
+    {
+        "id": 226,
+        "City": "Kuala Lumpur",
+        "Country": "Malaysia",
+        "AQI": 71,
+        "PM25": 56.8,
+        "PM10": 85.2,
+        "Date": "2025-12-15"
+    },
+    {
+        "id": 227,
+        "City": "Jakarta",
+        "Country": "Indonesia",
+        "AQI": 151,
+        "PM25": 120.8,
+        "PM10": 193.3,
+        "Date": "2025-12-15"
+    },
+    {
+        "id": 228,
+        "City": "Manila",
+        "Country": "Philippines",
+        "AQI": 118,
+        "PM25": 94.4,
+        "PM10": 151.0,
+        "Date": "2025-12-15"
+    },
+    {
+        "id": 229,
+        "City": "Beijing",
+        "Country": "China",
+        "AQI": 54,
+        "PM25": 43.2,
+        "PM10": 69.1,
+        "Date": "2025-12-15"
+    },
+    {
+        "id": 230,
+        "City": "Shanghai",
+        "Country": "China",
+        "AQI": 79,
+        "PM25": 63.2,
+        "PM10": 101.1,
+        "Date": "2025-12-15"
+    },
+    {
+        "id": 231,
+        "City": "Hanoi",
+        "Country": "Vietnam",
+        "AQI": 168,
+        "PM25": 134.4,
+        "PM10": 215.0,
+        "Date": "2025-12-14"
+    },
+    {
+        "id": 232,
+        "City": "Saigon",
+        "Country": "Vietnam",
+        "AQI": 81,
+        "PM25": 64.8,
+        "PM10": 103.7,
+        "Date": "2025-12-14"
+    },
+    {
+        "id": 233,
+        "City": "Perth",
+        "Country": "Australia",
+        "AQI": 39,
+        "PM25": 31.2,
+        "PM10": 40.6,
+        "Date": "2025-12-14"
+    },
+    {
+        "id": 234,
+        "City": "Bangkok",
+        "Country": "Thailand",
+        "AQI": 124,
+        "PM25": 99.2,
+        "PM10": 158.7,
+        "Date": "2025-12-14"
+    },
+    {
+        "id": 235,
+        "City": "Singapore",
+        "Country": "Singapore",
+        "AQI": 40,
+        "PM25": 32.0,
+        "PM10": 44.8,
+        "Date": "2025-12-14"
+    },
+    {
+        "id": 236,
+        "City": "Kuala Lumpur",
+        "Country": "Malaysia",
+        "AQI": 82,
+        "PM25": 65.6,
+        "PM10": 98.4,
+        "Date": "2025-12-14"
+    },
+    {
+        "id": 237,
+        "City": "Jakarta",
+        "Country": "Indonesia",
+        "AQI": 157,
+        "PM25": 125.6,
+        "PM10": 201.0,
+        "Date": "2025-12-14"
+    },
+    {
+        "id": 238,
+        "City": "Manila",
+        "Country": "Philippines",
+        "AQI": 108,
+        "PM25": 86.4,
+        "PM10": 138.2,
+        "Date": "2025-12-14"
+    },
+    {
+        "id": 239,
+        "City": "Beijing",
+        "Country": "China",
+        "AQI": 127,
+        "PM25": 101.6,
+        "PM10": 162.6,
+        "Date": "2025-12-14"
+    },
+    {
+        "id": 240,
+        "City": "Shanghai",
+        "Country": "China",
+        "AQI": 68,
+        "PM25": 54.4,
+        "PM10": 87.0,
+        "Date": "2025-12-14"
+    },
+    {
+        "id": 241,
+        "City": "Hanoi",
+        "Country": "Vietnam",
+        "AQI": 183,
+        "PM25": 146.4,
+        "PM10": 234.2,
+        "Date": "2025-12-13"
+    },
+    {
+        "id": 242,
+        "City": "Saigon",
+        "Country": "Vietnam",
+        "AQI": 74,
+        "PM25": 59.2,
+        "PM10": 94.7,
+        "Date": "2025-12-13"
+    },
+    {
+        "id": 243,
+        "City": "Perth",
+        "Country": "Australia",
+        "AQI": 26,
+        "PM25": 20.8,
+        "PM10": 27.0,
+        "Date": "2025-12-13"
+    },
+    {
+        "id": 244,
+        "City": "Bangkok",
+        "Country": "Thailand",
+        "AQI": 111,
+        "PM25": 88.8,
+        "PM10": 142.1,
+        "Date": "2025-12-13"
+    },
+    {
+        "id": 245,
+        "City": "Singapore",
+        "Country": "Singapore",
+        "AQI": 58,
+        "PM25": 46.4,
+        "PM10": 65.0,
+        "Date": "2025-12-13"
+    },
+    {
+        "id": 246,
+        "City": "Kuala Lumpur",
+        "Country": "Malaysia",
+        "AQI": 86,
+        "PM25": 68.8,
+        "PM10": 103.2,
+        "Date": "2025-12-13"
+    },
+    {
+        "id": 247,
+        "City": "Jakarta",
+        "Country": "Indonesia",
+        "AQI": 138,
+        "PM25": 110.4,
+        "PM10": 176.6,
+        "Date": "2025-12-13"
+    },
+    {
+        "id": 248,
+        "City": "Manila",
+        "Country": "Philippines",
+        "AQI": 115,
+        "PM25": 92.0,
+        "PM10": 147.2,
+        "Date": "2025-12-13"
+    },
+    {
+        "id": 249,
+        "City": "Beijing",
+        "Country": "China",
+        "AQI": 89,
+        "PM25": 71.2,
+        "PM10": 113.9,
+        "Date": "2025-12-13"
+    },
+    {
+        "id": 250,
+        "City": "Shanghai",
+        "Country": "China",
+        "AQI": 142,
+        "PM25": 113.6,
+        "PM10": 181.8,
+        "Date": "2025-12-13"
+    },
+    {
+        "id": 251,
+        "City": "Hanoi",
+        "Country": "Vietnam",
+        "AQI": 156,
+        "PM25": 124.8,
+        "PM10": 199.7,
+        "Date": "2025-12-12"
+    },
+    {
+        "id": 252,
+        "City": "Saigon",
+        "Country": "Vietnam",
+        "AQI": 123,
+        "PM25": 98.4,
+        "PM10": 157.4,
+        "Date": "2025-12-12"
+    },
+    {
+        "id": 253,
+        "City": "Perth",
+        "Country": "Australia",
+        "AQI": 30,
+        "PM25": 24.0,
+        "PM10": 31.2,
+        "Date": "2025-12-12"
+    },
+    {
+        "id": 254,
+        "City": "Bangkok",
+        "Country": "Thailand",
+        "AQI": 124,
+        "PM25": 99.2,
+        "PM10": 158.7,
+        "Date": "2025-12-12"
+    },
+    {
+        "id": 255,
+        "City": "Singapore",
+        "Country": "Singapore",
+        "AQI": 62,
+        "PM25": 49.6,
+        "PM10": 69.4,
+        "Date": "2025-12-12"
+    },
+    {
+        "id": 256,
+        "City": "Kuala Lumpur",
+        "Country": "Malaysia",
+        "AQI": 61,
+        "PM25": 48.8,
+        "PM10": 73.2,
+        "Date": "2025-12-12"
+    },
+    {
+        "id": 257,
+        "City": "Jakarta",
+        "Country": "Indonesia",
+        "AQI": 150,
+        "PM25": 120.0,
+        "PM10": 192.0,
+        "Date": "2025-12-12"
+    },
+    {
+        "id": 258,
+        "City": "Manila",
+        "Country": "Philippines",
+        "AQI": 96,
+        "PM25": 76.8,
+        "PM10": 122.9,
+        "Date": "2025-12-12"
+    },
+    {
+        "id": 259,
+        "City": "Beijing",
+        "Country": "China",
+        "AQI": 75,
+        "PM25": 60.0,
+        "PM10": 96.0,
+        "Date": "2025-12-12"
+    },
+    {
+        "id": 260,
+        "City": "Shanghai",
+        "Country": "China",
+        "AQI": 84,
+        "PM25": 67.2,
+        "PM10": 107.5,
+        "Date": "2025-12-12"
+    },
+    {
+        "id": 261,
+        "City": "Hanoi",
+        "Country": "Vietnam",
+        "AQI": 127,
+        "PM25": 101.6,
+        "PM10": 162.6,
+        "Date": "2025-12-11"
+    },
+    {
+        "id": 262,
+        "City": "Saigon",
+        "Country": "Vietnam",
+        "AQI": 91,
+        "PM25": 72.8,
+        "PM10": 116.5,
+        "Date": "2025-12-11"
+    },
+    {
+        "id": 263,
+        "City": "Perth",
+        "Country": "Australia",
+        "AQI": 10,
+        "PM25": 8.0,
+        "PM10": 10.4,
+        "Date": "2025-12-11"
+    },
+    {
+        "id": 264,
+        "City": "Bangkok",
+        "Country": "Thailand",
+        "AQI": 154,
+        "PM25": 123.2,
+        "PM10": 197.1,
+        "Date": "2025-12-11"
+    },
+    {
+        "id": 265,
+        "City": "Singapore",
+        "Country": "Singapore",
+        "AQI": 41,
+        "PM25": 32.8,
+        "PM10": 45.9,
+        "Date": "2025-12-11"
+    },
+    {
+        "id": 266,
+        "City": "Kuala Lumpur",
+        "Country": "Malaysia",
+        "AQI": 58,
+        "PM25": 46.4,
+        "PM10": 69.6,
+        "Date": "2025-12-11"
+    },
+    {
+        "id": 267,
+        "City": "Jakarta",
+        "Country": "Indonesia",
+        "AQI": 146,
+        "PM25": 116.8,
+        "PM10": 186.9,
+        "Date": "2025-12-11"
+    },
+    {
+        "id": 268,
+        "City": "Manila",
+        "Country": "Philippines",
+        "AQI": 71,
+        "PM25": 56.8,
+        "PM10": 90.9,
+        "Date": "2025-12-11"
+    },
+    {
+        "id": 269,
+        "City": "Beijing",
+        "Country": "China",
+        "AQI": 124,
+        "PM25": 99.2,
+        "PM10": 158.7,
+        "Date": "2025-12-11"
+    },
+    {
+        "id": 270,
+        "City": "Shanghai",
+        "Country": "China",
+        "AQI": 158,
+        "PM25": 126.4,
+        "PM10": 202.2,
+        "Date": "2025-12-11"
+    },
+    {
+        "id": 271,
+        "City": "Hanoi",
+        "Country": "Vietnam",
+        "AQI": 151,
+        "PM25": 120.8,
+        "PM10": 193.3,
+        "Date": "2025-12-10"
+    },
+    {
+        "id": 272,
+        "City": "Saigon",
+        "Country": "Vietnam",
+        "AQI": 119,
+        "PM25": 95.2,
+        "PM10": 152.3,
+        "Date": "2025-12-10"
+    },
+    {
+        "id": 273,
+        "City": "Perth",
+        "Country": "Australia",
+        "AQI": 15,
+        "PM25": 12.0,
+        "PM10": 15.6,
+        "Date": "2025-12-10"
+    },
+    {
+        "id": 274,
+        "City": "Bangkok",
+        "Country": "Thailand",
+        "AQI": 133,
+        "PM25": 106.4,
+        "PM10": 170.2,
+        "Date": "2025-12-10"
+    },
+    {
+        "id": 275,
+        "City": "Singapore",
+        "Country": "Singapore",
+        "AQI": 41,
+        "PM25": 32.8,
+        "PM10": 45.9,
+        "Date": "2025-12-10"
+    },
+    {
+        "id": 276,
+        "City": "Kuala Lumpur",
+        "Country": "Malaysia",
+        "AQI": 81,
+        "PM25": 64.8,
+        "PM10": 97.2,
+        "Date": "2025-12-10"
+    },
+    {
+        "id": 277,
+        "City": "Jakarta",
+        "Country": "Indonesia",
+        "AQI": 167,
+        "PM25": 133.6,
+        "PM10": 213.8,
+        "Date": "2025-12-10"
+    },
+    {
+        "id": 278,
+        "City": "Manila",
+        "Country": "Philippines",
+        "AQI": 109,
+        "PM25": 87.2,
+        "PM10": 139.5,
+        "Date": "2025-12-10"
+    },
+    {
+        "id": 279,
+        "City": "Beijing",
+        "Country": "China",
+        "AQI": 93,
+        "PM25": 74.4,
+        "PM10": 119.0,
+        "Date": "2025-12-10"
+    },
+    {
+        "id": 280,
+        "City": "Shanghai",
+        "Country": "China",
+        "AQI": 111,
+        "PM25": 88.8,
+        "PM10": 142.1,
+        "Date": "2025-12-10"
+    },
+    {
+        "id": 281,
+        "City": "Hanoi",
+        "Country": "Vietnam",
+        "AQI": 144,
+        "PM25": 115.2,
+        "PM10": 184.3,
+        "Date": "2025-12-09"
+    },
+    {
+        "id": 282,
+        "City": "Saigon",
+        "Country": "Vietnam",
+        "AQI": 94,
+        "PM25": 75.2,
+        "PM10": 120.3,
+        "Date": "2025-12-09"
+    },
+    {
+        "id": 283,
+        "City": "Perth",
+        "Country": "Australia",
+        "AQI": 34,
+        "PM25": 27.2,
+        "PM10": 35.4,
+        "Date": "2025-12-09"
+    },
+    {
+        "id": 284,
+        "City": "Bangkok",
+        "Country": "Thailand",
+        "AQI": 137,
+        "PM25": 109.6,
+        "PM10": 175.4,
+        "Date": "2025-12-09"
+    },
+    {
+        "id": 285,
+        "City": "Singapore",
+        "Country": "Singapore",
+        "AQI": 62,
+        "PM25": 49.6,
+        "PM10": 69.4,
+        "Date": "2025-12-09"
+    },
+    {
+        "id": 286,
+        "City": "Kuala Lumpur",
+        "Country": "Malaysia",
+        "AQI": 73,
+        "PM25": 58.4,
+        "PM10": 87.6,
+        "Date": "2025-12-09"
+    },
+    {
+        "id": 287,
+        "City": "Jakarta",
+        "Country": "Indonesia",
+        "AQI": 128,
+        "PM25": 102.4,
+        "PM10": 163.8,
+        "Date": "2025-12-09"
+    },
+    {
+        "id": 288,
+        "City": "Manila",
+        "Country": "Philippines",
+        "AQI": 113,
+        "PM25": 90.4,
+        "PM10": 144.6,
+        "Date": "2025-12-09"
+    },
+    {
+        "id": 289,
+        "City": "Beijing",
+        "Country": "China",
+        "AQI": 185,
+        "PM25": 148.0,
+        "PM10": 236.8,
+        "Date": "2025-12-09"
+    },
+    {
+        "id": 290,
+        "City": "Shanghai",
+        "Country": "China",
+        "AQI": 161,
+        "PM25": 128.8,
+        "PM10": 206.1,
+        "Date": "2025-12-09"
+    },
+    {
+        "id": 291,
+        "City": "Hanoi",
+        "Country": "Vietnam",
+        "AQI": 170,
+        "PM25": 136.0,
+        "PM10": 217.6,
+        "Date": "2025-12-08"
+    },
+    {
+        "id": 292,
+        "City": "Saigon",
+        "Country": "Vietnam",
+        "AQI": 124,
+        "PM25": 99.2,
+        "PM10": 158.7,
+        "Date": "2025-12-08"
+    },
+    {
+        "id": 293,
+        "City": "Perth",
+        "Country": "Australia",
+        "AQI": 27,
+        "PM25": 21.6,
+        "PM10": 28.1,
+        "Date": "2025-12-08"
+    },
+    {
+        "id": 294,
+        "City": "Bangkok",
+        "Country": "Thailand",
+        "AQI": 151,
+        "PM25": 120.8,
+        "PM10": 193.3,
+        "Date": "2025-12-08"
+    },
+    {
+        "id": 295,
+        "City": "Singapore",
+        "Country": "Singapore",
+        "AQI": 53,
+        "PM25": 42.4,
+        "PM10": 59.4,
+        "Date": "2025-12-08"
+    },
+    {
+        "id": 296,
+        "City": "Kuala Lumpur",
+        "Country": "Malaysia",
+        "AQI": 72,
+        "PM25": 57.6,
+        "PM10": 86.4,
+        "Date": "2025-12-08"
+    },
+    {
+        "id": 297,
+        "City": "Jakarta",
+        "Country": "Indonesia",
+        "AQI": 140,
+        "PM25": 112.0,
+        "PM10": 179.2,
+        "Date": "2025-12-08"
+    },
+    {
+        "id": 298,
+        "City": "Manila",
+        "Country": "Philippines",
+        "AQI": 98,
+        "PM25": 78.4,
+        "PM10": 125.4,
+        "Date": "2025-12-08"
+    },
+    {
+        "id": 299,
+        "City": "Beijing",
+        "Country": "China",
+        "AQI": 168,
+        "PM25": 134.4,
+        "PM10": 215.0,
+        "Date": "2025-12-08"
+    },
+    {
+        "id": 300,
+        "City": "Shanghai",
+        "Country": "China",
+        "AQI": 69,
+        "PM25": 55.2,
+        "PM10": 88.3,
+        "Date": "2025-12-08"
+    },
+    {
+        "id": 301,
+        "City": "Hanoi",
+        "Country": "Vietnam",
+        "AQI": 180,
+        "PM25": 144.0,
+        "PM10": 230.4,
+        "Date": "2025-12-07"
+    },
+    {
+        "id": 302,
+        "City": "Saigon",
+        "Country": "Vietnam",
+        "AQI": 93,
+        "PM25": 74.4,
+        "PM10": 119.0,
+        "Date": "2025-12-07"
+    },
+    {
+        "id": 303,
+        "City": "Perth",
+        "Country": "Australia",
+        "AQI": 14,
+        "PM25": 11.2,
+        "PM10": 14.6,
+        "Date": "2025-12-07"
+    },
+    {
+        "id": 304,
+        "City": "Bangkok",
+        "Country": "Thailand",
+        "AQI": 150,
+        "PM25": 120.0,
+        "PM10": 192.0,
+        "Date": "2025-12-07"
+    },
+    {
+        "id": 305,
+        "City": "Singapore",
+        "Country": "Singapore",
+        "AQI": 64,
+        "PM25": 51.2,
+        "PM10": 71.7,
+        "Date": "2025-12-07"
+    },
+    {
+        "id": 306,
+        "City": "Kuala Lumpur",
+        "Country": "Malaysia",
+        "AQI": 85,
+        "PM25": 68.0,
+        "PM10": 102.0,
+        "Date": "2025-12-07"
+    },
+    {
+        "id": 307,
+        "City": "Jakarta",
+        "Country": "Indonesia",
+        "AQI": 160,
+        "PM25": 128.0,
+        "PM10": 204.8,
+        "Date": "2025-12-07"
+    },
+    {
+        "id": 308,
+        "City": "Manila",
+        "Country": "Philippines",
+        "AQI": 89,
+        "PM25": 71.2,
+        "PM10": 113.9,
+        "Date": "2025-12-07"
+    },
+    {
+        "id": 309,
+        "City": "Beijing",
+        "Country": "China",
+        "AQI": 179,
+        "PM25": 143.2,
+        "PM10": 229.1,
+        "Date": "2025-12-07"
+    },
+    {
+        "id": 310,
+        "City": "Shanghai",
+        "Country": "China",
+        "AQI": 95,
+        "PM25": 76.0,
+        "PM10": 121.6,
+        "Date": "2025-12-07"
+    },
+    {
+        "id": 311,
+        "City": "Hanoi",
+        "Country": "Vietnam",
+        "AQI": 145,
+        "PM25": 116.0,
+        "PM10": 185.6,
+        "Date": "2025-12-06"
+    },
+    {
+        "id": 312,
+        "City": "Saigon",
+        "Country": "Vietnam",
+        "AQI": 71,
+        "PM25": 56.8,
+        "PM10": 90.9,
+        "Date": "2025-12-06"
+    },
+    {
+        "id": 313,
+        "City": "Perth",
+        "Country": "Australia",
+        "AQI": 12,
+        "PM25": 9.6,
+        "PM10": 12.5,
+        "Date": "2025-12-06"
+    },
+    {
+        "id": 314,
+        "City": "Bangkok",
+        "Country": "Thailand",
+        "AQI": 127,
+        "PM25": 101.6,
+        "PM10": 162.6,
+        "Date": "2025-12-06"
+    },
+    {
+        "id": 315,
+        "City": "Singapore",
+        "Country": "Singapore",
+        "AQI": 68,
+        "PM25": 54.4,
+        "PM10": 76.2,
+        "Date": "2025-12-06"
+    },
+    {
+        "id": 316,
+        "City": "Kuala Lumpur",
+        "Country": "Malaysia",
+        "AQI": 51,
+        "PM25": 40.8,
+        "PM10": 61.2,
+        "Date": "2025-12-06"
+    },
+    {
+        "id": 317,
+        "City": "Jakarta",
+        "Country": "Indonesia",
+        "AQI": 129,
+        "PM25": 103.2,
+        "PM10": 165.1,
+        "Date": "2025-12-06"
+    },
+    {
+        "id": 318,
+        "City": "Manila",
+        "Country": "Philippines",
+        "AQI": 115,
+        "PM25": 92.0,
+        "PM10": 147.2,
+        "Date": "2025-12-06"
+    },
+    {
+        "id": 319,
+        "City": "Beijing",
+        "Country": "China",
+        "AQI": 118,
+        "PM25": 94.4,
+        "PM10": 151.0,
+        "Date": "2025-12-06"
+    },
+    {
+        "id": 320,
+        "City": "Shanghai",
+        "Country": "China",
+        "AQI": 90,
+        "PM25": 72.0,
+        "PM10": 115.2,
+        "Date": "2025-12-06"
+    },
+    {
+        "id": 321,
+        "City": "Hanoi",
+        "Country": "Vietnam",
+        "AQI": 158,
+        "PM25": 126.4,
+        "PM10": 202.2,
+        "Date": "2025-12-05"
+    },
+    {
+        "id": 322,
+        "City": "Saigon",
+        "Country": "Vietnam",
+        "AQI": 126,
+        "PM25": 100.8,
+        "PM10": 161.3,
+        "Date": "2025-12-05"
+    },
+    {
+        "id": 323,
+        "City": "Perth",
+        "Country": "Australia",
+        "AQI": 34,
+        "PM25": 27.2,
+        "PM10": 35.4,
+        "Date": "2025-12-05"
+    },
+    {
+        "id": 324,
+        "City": "Bangkok",
+        "Country": "Thailand",
+        "AQI": 129,
+        "PM25": 103.2,
+        "PM10": 165.1,
+        "Date": "2025-12-05"
+    },
+    {
+        "id": 325,
+        "City": "Singapore",
+        "Country": "Singapore",
+        "AQI": 54,
+        "PM25": 43.2,
+        "PM10": 60.5,
+        "Date": "2025-12-05"
+    },
+    {
+        "id": 326,
+        "City": "Kuala Lumpur",
+        "Country": "Malaysia",
+        "AQI": 65,
+        "PM25": 52.0,
+        "PM10": 78.0,
+        "Date": "2025-12-05"
+    },
+    {
+        "id": 327,
+        "City": "Jakarta",
+        "Country": "Indonesia",
+        "AQI": 123,
+        "PM25": 98.4,
+        "PM10": 157.4,
+        "Date": "2025-12-05"
+    },
+    {
+        "id": 328,
+        "City": "Manila",
+        "Country": "Philippines",
+        "AQI": 71,
+        "PM25": 56.8,
+        "PM10": 90.9,
+        "Date": "2025-12-05"
+    },
+    {
+        "id": 329,
+        "City": "Beijing",
+        "Country": "China",
+        "AQI": 178,
+        "PM25": 142.4,
+        "PM10": 227.8,
+        "Date": "2025-12-05"
+    },
+    {
+        "id": 330,
+        "City": "Shanghai",
+        "Country": "China",
+        "AQI": 127,
+        "PM25": 101.6,
+        "PM10": 162.6,
+        "Date": "2025-12-05"
+    },
+    {
+        "id": 331,
+        "City": "Hanoi",
+        "Country": "Vietnam",
+        "AQI": 172,
+        "PM25": 137.6,
+        "PM10": 220.2,
+        "Date": "2025-12-04"
+    },
+    {
+        "id": 332,
+        "City": "Saigon",
+        "Country": "Vietnam",
+        "AQI": 79,
+        "PM25": 63.2,
+        "PM10": 101.1,
+        "Date": "2025-12-04"
+    },
+    {
+        "id": 333,
+        "City": "Perth",
+        "Country": "Australia",
+        "AQI": 38,
+        "PM25": 30.4,
+        "PM10": 39.5,
+        "Date": "2025-12-04"
+    },
+    {
+        "id": 334,
+        "City": "Bangkok",
+        "Country": "Thailand",
+        "AQI": 150,
+        "PM25": 120.0,
+        "PM10": 192.0,
+        "Date": "2025-12-04"
+    },
+    {
+        "id": 335,
+        "City": "Singapore",
+        "Country": "Singapore",
+        "AQI": 62,
+        "PM25": 49.6,
+        "PM10": 69.4,
+        "Date": "2025-12-04"
+    },
+    {
+        "id": 336,
+        "City": "Kuala Lumpur",
+        "Country": "Malaysia",
+        "AQI": 84,
+        "PM25": 67.2,
+        "PM10": 100.8,
+        "Date": "2025-12-04"
+    },
+    {
+        "id": 337,
+        "City": "Jakarta",
+        "Country": "Indonesia",
+        "AQI": 139,
+        "PM25": 111.2,
+        "PM10": 177.9,
+        "Date": "2025-12-04"
+    },
+    {
+        "id": 338,
+        "City": "Manila",
+        "Country": "Philippines",
+        "AQI": 114,
+        "PM25": 91.2,
+        "PM10": 145.9,
+        "Date": "2025-12-04"
+    },
+    {
+        "id": 339,
+        "City": "Beijing",
+        "Country": "China",
+        "AQI": 160,
+        "PM25": 128.0,
+        "PM10": 204.8,
+        "Date": "2025-12-04"
+    },
+    {
+        "id": 340,
+        "City": "Shanghai",
+        "Country": "China",
+        "AQI": 89,
+        "PM25": 71.2,
+        "PM10": 113.9,
+        "Date": "2025-12-04"
+    },
+    {
+        "id": 341,
+        "City": "Hanoi",
+        "Country": "Vietnam",
+        "AQI": 153,
+        "PM25": 122.4,
+        "PM10": 195.8,
+        "Date": "2025-12-03"
+    },
+    {
+        "id": 342,
+        "City": "Saigon",
+        "Country": "Vietnam",
+        "AQI": 83,
+        "PM25": 66.4,
+        "PM10": 106.2,
+        "Date": "2025-12-03"
+    },
+    {
+        "id": 343,
+        "City": "Perth",
+        "Country": "Australia",
+        "AQI": 20,
+        "PM25": 16.0,
+        "PM10": 20.8,
+        "Date": "2025-12-03"
+    },
+    {
+        "id": 344,
+        "City": "Bangkok",
+        "Country": "Thailand",
+        "AQI": 118,
+        "PM25": 94.4,
+        "PM10": 151.0,
+        "Date": "2025-12-03"
+    },
+    {
+        "id": 345,
+        "City": "Singapore",
+        "Country": "Singapore",
+        "AQI": 42,
+        "PM25": 33.6,
+        "PM10": 47.0,
+        "Date": "2025-12-03"
+    },
+    {
+        "id": 346,
+        "City": "Kuala Lumpur",
+        "Country": "Malaysia",
+        "AQI": 85,
+        "PM25": 68.0,
+        "PM10": 102.0,
+        "Date": "2025-12-03"
+    },
+    {
+        "id": 347,
+        "City": "Jakarta",
+        "Country": "Indonesia",
+        "AQI": 147,
+        "PM25": 117.6,
+        "PM10": 188.2,
+        "Date": "2025-12-03"
+    },
+    {
+        "id": 348,
+        "City": "Manila",
+        "Country": "Philippines",
+        "AQI": 119,
+        "PM25": 95.2,
+        "PM10": 152.3,
+        "Date": "2025-12-03"
+    },
+    {
+        "id": 349,
+        "City": "Beijing",
+        "Country": "China",
+        "AQI": 143,
+        "PM25": 114.4,
+        "PM10": 183.0,
+        "Date": "2025-12-03"
+    },
+    {
+        "id": 350,
+        "City": "Shanghai",
+        "Country": "China",
+        "AQI": 138,
+        "PM25": 110.4,
+        "PM10": 176.6,
+        "Date": "2025-12-03"
+    },
+    {
+        "id": 351,
+        "City": "Hanoi",
+        "Country": "Vietnam",
+        "AQI": 129,
+        "PM25": 103.2,
+        "PM10": 165.1,
+        "Date": "2025-12-02"
+    },
+    {
+        "id": 352,
+        "City": "Saigon",
+        "Country": "Vietnam",
+        "AQI": 100,
+        "PM25": 80.0,
+        "PM10": 128.0,
+        "Date": "2025-12-02"
+    },
+    {
+        "id": 353,
+        "City": "Perth",
+        "Country": "Australia",
+        "AQI": 12,
+        "PM25": 9.6,
+        "PM10": 12.5,
+        "Date": "2025-12-02"
+    },
+    {
+        "id": 354,
+        "City": "Bangkok",
+        "Country": "Thailand",
+        "AQI": 101,
+        "PM25": 80.8,
+        "PM10": 129.3,
+        "Date": "2025-12-02"
+    },
+    {
+        "id": 355,
+        "City": "Singapore",
+        "Country": "Singapore",
+        "AQI": 42,
+        "PM25": 33.6,
+        "PM10": 47.0,
+        "Date": "2025-12-02"
+    },
+    {
+        "id": 356,
+        "City": "Kuala Lumpur",
+        "Country": "Malaysia",
+        "AQI": 78,
+        "PM25": 62.4,
+        "PM10": 93.6,
+        "Date": "2025-12-02"
+    },
+    {
+        "id": 357,
+        "City": "Jakarta",
+        "Country": "Indonesia",
+        "AQI": 166,
+        "PM25": 132.8,
+        "PM10": 212.5,
+        "Date": "2025-12-02"
+    },
+    {
+        "id": 358,
+        "City": "Manila",
+        "Country": "Philippines",
+        "AQI": 70,
+        "PM25": 56.0,
+        "PM10": 89.6,
+        "Date": "2025-12-02"
+    },
+    {
+        "id": 359,
+        "City": "Beijing",
+        "Country": "China",
+        "AQI": 162,
+        "PM25": 129.6,
+        "PM10": 207.4,
+        "Date": "2025-12-02"
+    },
+    {
+        "id": 360,
+        "City": "Shanghai",
+        "Country": "China",
+        "AQI": 144,
+        "PM25": 115.2,
+        "PM10": 184.3,
+        "Date": "2025-12-02"
+    },
+    {
+        "id": 361,
+        "City": "Hanoi",
+        "Country": "Vietnam",
+        "AQI": 134,
+        "PM25": 107.2,
+        "PM10": 171.5,
+        "Date": "2025-12-01"
+    },
+    {
+        "id": 362,
+        "City": "Saigon",
+        "Country": "Vietnam",
+        "AQI": 121,
+        "PM25": 96.8,
+        "PM10": 154.9,
+        "Date": "2025-12-01"
+    },
+    {
+        "id": 363,
+        "City": "Perth",
+        "Country": "Australia",
+        "AQI": 29,
+        "PM25": 23.2,
+        "PM10": 30.2,
+        "Date": "2025-12-01"
+    },
+    {
+        "id": 364,
+        "City": "Bangkok",
+        "Country": "Thailand",
+        "AQI": 113,
+        "PM25": 90.4,
+        "PM10": 144.6,
+        "Date": "2025-12-01"
+    },
+    {
+        "id": 365,
+        "City": "Singapore",
+        "Country": "Singapore",
+        "AQI": 46,
+        "PM25": 36.8,
+        "PM10": 51.5,
+        "Date": "2025-12-01"
+    },
+    {
+        "id": 366,
+        "City": "Kuala Lumpur",
+        "Country": "Malaysia",
+        "AQI": 71,
+        "PM25": 56.8,
+        "PM10": 85.2,
+        "Date": "2025-12-01"
+    },
+    {
+        "id": 367,
+        "City": "Jakarta",
+        "Country": "Indonesia",
+        "AQI": 155,
+        "PM25": 124.0,
+        "PM10": 198.4,
+        "Date": "2025-12-01"
+    },
+    {
+        "id": 368,
+        "City": "Manila",
+        "Country": "Philippines",
+        "AQI": 102,
+        "PM25": 81.6,
+        "PM10": 130.6,
+        "Date": "2025-12-01"
+    },
+    {
+        "id": 369,
+        "City": "Beijing",
+        "Country": "China",
+        "AQI": 79,
+        "PM25": 63.2,
+        "PM10": 101.1,
+        "Date": "2025-12-01"
+    },
+    {
+        "id": 370,
+        "City": "Shanghai",
+        "Country": "China",
+        "AQI": 76,
+        "PM25": 60.8,
+        "PM10": 97.3,
+        "Date": "2025-12-01"
+    },
+    {
+        "id": 371,
+        "City": "Hanoi",
+        "Country": "Vietnam",
+        "AQI": 148,
+        "PM25": 118.4,
+        "PM10": 189.4,
+        "Date": "2025-11-30"
+    },
+    {
+        "id": 372,
+        "City": "Saigon",
+        "Country": "Vietnam",
+        "AQI": 78,
+        "PM25": 62.4,
+        "PM10": 99.8,
+        "Date": "2025-11-30"
+    },
+    {
+        "id": 373,
+        "City": "Perth",
+        "Country": "Australia",
+        "AQI": 33,
+        "PM25": 26.4,
+        "PM10": 34.3,
+        "Date": "2025-11-30"
+    },
+    {
+        "id": 374,
+        "City": "Bangkok",
+        "Country": "Thailand",
+        "AQI": 114,
+        "PM25": 91.2,
+        "PM10": 145.9,
+        "Date": "2025-11-30"
+    },
+    {
+        "id": 375,
+        "City": "Singapore",
+        "Country": "Singapore",
+        "AQI": 43,
+        "PM25": 34.4,
+        "PM10": 48.2,
+        "Date": "2025-11-30"
+    },
+    {
+        "id": 376,
+        "City": "Kuala Lumpur",
+        "Country": "Malaysia",
+        "AQI": 62,
+        "PM25": 49.6,
+        "PM10": 74.4,
+        "Date": "2025-11-30"
+    },
+    {
+        "id": 377,
+        "City": "Jakarta",
+        "Country": "Indonesia",
+        "AQI": 120,
+        "PM25": 96.0,
+        "PM10": 153.6,
+        "Date": "2025-11-30"
+    },
+    {
+        "id": 378,
+        "City": "Manila",
+        "Country": "Philippines",
+        "AQI": 73,
+        "PM25": 58.4,
+        "PM10": 93.4,
+        "Date": "2025-11-30"
+    },
+    {
+        "id": 379,
+        "City": "Beijing",
+        "Country": "China",
+        "AQI": 115,
+        "PM25": 92.0,
+        "PM10": 147.2,
+        "Date": "2025-11-30"
+    },
+    {
+        "id": 380,
+        "City": "Shanghai",
+        "Country": "China",
+        "AQI": 171,
+        "PM25": 136.8,
+        "PM10": 218.9,
+        "Date": "2025-11-30"
+    },
+    {
+        "id": 381,
+        "City": "Hanoi",
+        "Country": "Vietnam",
+        "AQI": 139,
+        "PM25": 111.2,
+        "PM10": 177.9,
+        "Date": "2025-11-29"
+    },
+    {
+        "id": 382,
+        "City": "Saigon",
+        "Country": "Vietnam",
+        "AQI": 76,
+        "PM25": 60.8,
+        "PM10": 97.3,
+        "Date": "2025-11-29"
+    },
+    {
+        "id": 383,
+        "City": "Perth",
+        "Country": "Australia",
+        "AQI": 31,
+        "PM25": 24.8,
+        "PM10": 32.2,
+        "Date": "2025-11-29"
+    },
+    {
+        "id": 384,
+        "City": "Bangkok",
+        "Country": "Thailand",
+        "AQI": 153,
+        "PM25": 122.4,
+        "PM10": 195.8,
+        "Date": "2025-11-29"
+    },
+    {
+        "id": 385,
+        "City": "Singapore",
+        "Country": "Singapore",
+        "AQI": 48,
+        "PM25": 38.4,
+        "PM10": 53.8,
+        "Date": "2025-11-29"
+    },
+    {
+        "id": 386,
+        "City": "Kuala Lumpur",
+        "Country": "Malaysia",
+        "AQI": 85,
+        "PM25": 68.0,
+        "PM10": 102.0,
+        "Date": "2025-11-29"
+    },
+    {
+        "id": 387,
+        "City": "Jakarta",
+        "Country": "Indonesia",
+        "AQI": 143,
+        "PM25": 114.4,
+        "PM10": 183.0,
+        "Date": "2025-11-29"
+    },
+    {
+        "id": 388,
+        "City": "Manila",
+        "Country": "Philippines",
+        "AQI": 82,
+        "PM25": 65.6,
+        "PM10": 105.0,
+        "Date": "2025-11-29"
+    },
+    {
+        "id": 389,
+        "City": "Beijing",
+        "Country": "China",
+        "AQI": 124,
+        "PM25": 99.2,
+        "PM10": 158.7,
+        "Date": "2025-11-29"
+    },
+    {
+        "id": 390,
+        "City": "Shanghai",
+        "Country": "China",
+        "AQI": 177,
+        "PM25": 141.6,
+        "PM10": 226.6,
+        "Date": "2025-11-29"
+    },
+    {
+        "id": 391,
+        "City": "Hanoi",
+        "Country": "Vietnam",
+        "AQI": 155,
+        "PM25": 124.0,
+        "PM10": 198.4,
+        "Date": "2025-11-28"
+    },
+    {
+        "id": 392,
+        "City": "Saigon",
+        "Country": "Vietnam",
+        "AQI": 110,
+        "PM25": 88.0,
+        "PM10": 140.8,
+        "Date": "2025-11-28"
+    },
+    {
+        "id": 393,
+        "City": "Perth",
+        "Country": "Australia",
+        "AQI": 17,
+        "PM25": 13.6,
+        "PM10": 17.7,
+        "Date": "2025-11-28"
+    },
+    {
+        "id": 394,
+        "City": "Bangkok",
+        "Country": "Thailand",
+        "AQI": 100,
+        "PM25": 80.0,
+        "PM10": 128.0,
+        "Date": "2025-11-28"
+    },
+    {
+        "id": 395,
+        "City": "Singapore",
+        "Country": "Singapore",
+        "AQI": 54,
+        "PM25": 43.2,
+        "PM10": 60.5,
+        "Date": "2025-11-28"
+    },
+    {
+        "id": 396,
+        "City": "Kuala Lumpur",
+        "Country": "Malaysia",
+        "AQI": 65,
+        "PM25": 52.0,
+        "PM10": 78.0,
+        "Date": "2025-11-28"
+    },
+    {
+        "id": 397,
+        "City": "Jakarta",
+        "Country": "Indonesia",
+        "AQI": 169,
+        "PM25": 135.2,
+        "PM10": 216.3,
+        "Date": "2025-11-28"
+    },
+    {
+        "id": 398,
+        "City": "Manila",
+        "Country": "Philippines",
+        "AQI": 112,
+        "PM25": 89.6,
+        "PM10": 143.4,
+        "Date": "2025-11-28"
+    },
+    {
+        "id": 399,
+        "City": "Beijing",
+        "Country": "China",
+        "AQI": 128,
+        "PM25": 102.4,
+        "PM10": 163.8,
+        "Date": "2025-11-28"
+    },
+    {
+        "id": 400,
+        "City": "Shanghai",
+        "Country": "China",
+        "AQI": 118,
+        "PM25": 94.4,
+        "PM10": 151.0,
+        "Date": "2025-11-28"
+    },
+    {
+        "id": 401,
+        "City": "Hanoi",
+        "Country": "Vietnam",
+        "AQI": 165,
+        "PM25": 132.0,
+        "PM10": 211.2,
+        "Date": "2025-11-27"
+    },
+    {
+        "id": 402,
+        "City": "Saigon",
+        "Country": "Vietnam",
+        "AQI": 98,
+        "PM25": 78.4,
+        "PM10": 125.4,
+        "Date": "2025-11-27"
+    },
+    {
+        "id": 403,
+        "City": "Perth",
+        "Country": "Australia",
+        "AQI": 21,
+        "PM25": 16.8,
+        "PM10": 21.8,
+        "Date": "2025-11-27"
+    },
+    {
+        "id": 404,
+        "City": "Bangkok",
+        "Country": "Thailand",
+        "AQI": 102,
+        "PM25": 81.6,
+        "PM10": 130.6,
+        "Date": "2025-11-27"
+    },
+    {
+        "id": 405,
+        "City": "Singapore",
+        "Country": "Singapore",
+        "AQI": 53,
+        "PM25": 42.4,
+        "PM10": 59.4,
+        "Date": "2025-11-27"
+    },
+    {
+        "id": 406,
+        "City": "Kuala Lumpur",
+        "Country": "Malaysia",
+        "AQI": 56,
+        "PM25": 44.8,
+        "PM10": 67.2,
+        "Date": "2025-11-27"
+    },
+    {
+        "id": 407,
+        "City": "Jakarta",
+        "Country": "Indonesia",
+        "AQI": 128,
+        "PM25": 102.4,
+        "PM10": 163.8,
+        "Date": "2025-11-27"
+    },
+    {
+        "id": 408,
+        "City": "Manila",
+        "Country": "Philippines",
+        "AQI": 92,
+        "PM25": 73.6,
+        "PM10": 117.8,
+        "Date": "2025-11-27"
+    },
+    {
+        "id": 409,
+        "City": "Beijing",
+        "Country": "China",
+        "AQI": 127,
+        "PM25": 101.6,
+        "PM10": 162.6,
+        "Date": "2025-11-27"
+    },
+    {
+        "id": 410,
+        "City": "Shanghai",
+        "Country": "China",
+        "AQI": 52,
+        "PM25": 41.6,
+        "PM10": 66.6,
+        "Date": "2025-11-27"
+    },
+    {
+        "id": 411,
+        "City": "Hanoi",
+        "Country": "Vietnam",
+        "AQI": 179,
+        "PM25": 143.2,
+        "PM10": 229.1,
+        "Date": "2025-11-26"
+    },
+    {
+        "id": 412,
+        "City": "Saigon",
+        "Country": "Vietnam",
+        "AQI": 76,
+        "PM25": 60.8,
+        "PM10": 97.3,
+        "Date": "2025-11-26"
+    },
+    {
+        "id": 413,
+        "City": "Perth",
+        "Country": "Australia",
+        "AQI": 10,
+        "PM25": 8.0,
+        "PM10": 10.4,
+        "Date": "2025-11-26"
+    },
+    {
+        "id": 414,
+        "City": "Bangkok",
+        "Country": "Thailand",
+        "AQI": 149,
+        "PM25": 119.2,
+        "PM10": 190.7,
+        "Date": "2025-11-26"
+    },
+    {
+        "id": 415,
+        "City": "Singapore",
+        "Country": "Singapore",
+        "AQI": 51,
+        "PM25": 40.8,
+        "PM10": 57.1,
+        "Date": "2025-11-26"
+    },
+    {
+        "id": 416,
+        "City": "Kuala Lumpur",
+        "Country": "Malaysia",
+        "AQI": 66,
+        "PM25": 52.8,
+        "PM10": 79.2,
+        "Date": "2025-11-26"
+    },
+    {
+        "id": 417,
+        "City": "Jakarta",
+        "Country": "Indonesia",
+        "AQI": 128,
+        "PM25": 102.4,
+        "PM10": 163.8,
+        "Date": "2025-11-26"
+    },
+    {
+        "id": 418,
+        "City": "Manila",
+        "Country": "Philippines",
+        "AQI": 111,
+        "PM25": 88.8,
+        "PM10": 142.1,
+        "Date": "2025-11-26"
+    },
+    {
+        "id": 419,
+        "City": "Beijing",
+        "Country": "China",
+        "AQI": 146,
+        "PM25": 116.8,
+        "PM10": 186.9,
+        "Date": "2025-11-26"
+    },
+    {
+        "id": 420,
+        "City": "Shanghai",
+        "Country": "China",
+        "AQI": 108,
+        "PM25": 86.4,
+        "PM10": 138.2,
+        "Date": "2025-11-26"
+    },
+    {
+        "id": 421,
+        "City": "Hanoi",
+        "Country": "Vietnam",
+        "AQI": 144,
+        "PM25": 115.2,
+        "PM10": 184.3,
+        "Date": "2025-11-25"
+    },
+    {
+        "id": 422,
+        "City": "Saigon",
+        "Country": "Vietnam",
+        "AQI": 92,
+        "PM25": 73.6,
+        "PM10": 117.8,
+        "Date": "2025-11-25"
+    },
+    {
+        "id": 423,
+        "City": "Perth",
+        "Country": "Australia",
+        "AQI": 14,
+        "PM25": 11.2,
+        "PM10": 14.6,
+        "Date": "2025-11-25"
+    },
+    {
+        "id": 424,
+        "City": "Bangkok",
+        "Country": "Thailand",
+        "AQI": 137,
+        "PM25": 109.6,
+        "PM10": 175.4,
+        "Date": "2025-11-25"
+    },
+    {
+        "id": 425,
+        "City": "Singapore",
+        "Country": "Singapore",
+        "AQI": 69,
+        "PM25": 55.2,
+        "PM10": 77.3,
+        "Date": "2025-11-25"
+    },
+    {
+        "id": 426,
+        "City": "Kuala Lumpur",
+        "Country": "Malaysia",
+        "AQI": 78,
+        "PM25": 62.4,
+        "PM10": 93.6,
+        "Date": "2025-11-25"
+    },
+    {
+        "id": 427,
+        "City": "Jakarta",
+        "Country": "Indonesia",
+        "AQI": 127,
+        "PM25": 101.6,
+        "PM10": 162.6,
+        "Date": "2025-11-25"
+    },
+    {
+        "id": 428,
+        "City": "Manila",
+        "Country": "Philippines",
+        "AQI": 86,
+        "PM25": 68.8,
+        "PM10": 110.1,
+        "Date": "2025-11-25"
+    },
+    {
+        "id": 429,
+        "City": "Beijing",
+        "Country": "China",
+        "AQI": 193,
+        "PM25": 154.4,
+        "PM10": 247.0,
+        "Date": "2025-11-25"
+    },
+    {
+        "id": 430,
+        "City": "Shanghai",
+        "Country": "China",
+        "AQI": 61,
+        "PM25": 48.8,
+        "PM10": 78.1,
+        "Date": "2025-11-25"
+    },
+    {
+        "id": 431,
+        "City": "Hanoi",
+        "Country": "Vietnam",
+        "AQI": 184,
+        "PM25": 147.2,
+        "PM10": 235.5,
+        "Date": "2025-11-24"
+    },
+    {
+        "id": 432,
+        "City": "Saigon",
+        "Country": "Vietnam",
+        "AQI": 90,
+        "PM25": 72.0,
+        "PM10": 115.2,
+        "Date": "2025-11-24"
+    },
+    {
+        "id": 433,
+        "City": "Perth",
+        "Country": "Australia",
+        "AQI": 37,
+        "PM25": 29.6,
+        "PM10": 38.5,
+        "Date": "2025-11-24"
+    },
+    {
+        "id": 434,
+        "City": "Bangkok",
+        "Country": "Thailand",
+        "AQI": 105,
+        "PM25": 84.0,
+        "PM10": 134.4,
+        "Date": "2025-11-24"
+    },
+    {
+        "id": 435,
+        "City": "Singapore",
+        "Country": "Singapore",
+        "AQI": 68,
+        "PM25": 54.4,
+        "PM10": 76.2,
+        "Date": "2025-11-24"
+    },
+    {
+        "id": 436,
+        "City": "Kuala Lumpur",
+        "Country": "Malaysia",
+        "AQI": 75,
+        "PM25": 60.0,
+        "PM10": 90.0,
+        "Date": "2025-11-24"
+    },
+    {
+        "id": 437,
+        "City": "Jakarta",
+        "Country": "Indonesia",
+        "AQI": 160,
+        "PM25": 128.0,
+        "PM10": 204.8,
+        "Date": "2025-11-24"
+    },
+    {
+        "id": 438,
+        "City": "Manila",
+        "Country": "Philippines",
+        "AQI": 98,
+        "PM25": 78.4,
+        "PM10": 125.4,
+        "Date": "2025-11-24"
+    },
+    {
+        "id": 439,
+        "City": "Beijing",
+        "Country": "China",
+        "AQI": 177,
+        "PM25": 141.6,
+        "PM10": 226.6,
+        "Date": "2025-11-24"
+    },
+    {
+        "id": 440,
+        "City": "Shanghai",
+        "Country": "China",
+        "AQI": 79,
+        "PM25": 63.2,
+        "PM10": 101.1,
+        "Date": "2025-11-24"
+    },
+    {
+        "id": 441,
+        "City": "Hanoi",
+        "Country": "Vietnam",
+        "AQI": 153,
+        "PM25": 122.4,
+        "PM10": 195.8,
+        "Date": "2025-11-23"
+    },
+    {
+        "id": 442,
+        "City": "Saigon",
+        "Country": "Vietnam",
+        "AQI": 95,
+        "PM25": 76.0,
+        "PM10": 121.6,
+        "Date": "2025-11-23"
+    },
+    {
+        "id": 443,
+        "City": "Perth",
+        "Country": "Australia",
+        "AQI": 14,
+        "PM25": 11.2,
+        "PM10": 14.6,
+        "Date": "2025-11-23"
+    },
+    {
+        "id": 444,
+        "City": "Bangkok",
+        "Country": "Thailand",
+        "AQI": 129,
+        "PM25": 103.2,
+        "PM10": 165.1,
+        "Date": "2025-11-23"
+    },
+    {
+        "id": 445,
+        "City": "Singapore",
+        "Country": "Singapore",
+        "AQI": 50,
+        "PM25": 40.0,
+        "PM10": 56.0,
+        "Date": "2025-11-23"
+    },
+    {
+        "id": 446,
+        "City": "Kuala Lumpur",
+        "Country": "Malaysia",
+        "AQI": 69,
+        "PM25": 55.2,
+        "PM10": 82.8,
+        "Date": "2025-11-23"
+    },
+    {
+        "id": 447,
+        "City": "Jakarta",
+        "Country": "Indonesia",
+        "AQI": 143,
+        "PM25": 114.4,
+        "PM10": 183.0,
+        "Date": "2025-11-23"
+    },
+    {
+        "id": 448,
+        "City": "Manila",
+        "Country": "Philippines",
+        "AQI": 82,
+        "PM25": 65.6,
+        "PM10": 105.0,
+        "Date": "2025-11-23"
+    },
+    {
+        "id": 449,
+        "City": "Beijing",
+        "Country": "China",
+        "AQI": 124,
+        "PM25": 99.2,
+        "PM10": 158.7,
+        "Date": "2025-11-23"
+    },
+    {
+        "id": 450,
+        "City": "Shanghai",
+        "Country": "China",
+        "AQI": 134,
+        "PM25": 107.2,
+        "PM10": 171.5,
+        "Date": "2025-11-23"
+    },
+    {
+        "id": 451,
+        "City": "Hanoi",
+        "Country": "Vietnam",
+        "AQI": 137,
+        "PM25": 109.6,
+        "PM10": 175.4,
+        "Date": "2025-11-22"
+    },
+    {
+        "id": 452,
+        "City": "Saigon",
+        "Country": "Vietnam",
+        "AQI": 114,
+        "PM25": 91.2,
+        "PM10": 145.9,
+        "Date": "2025-11-22"
+    },
+    {
+        "id": 453,
+        "City": "Perth",
+        "Country": "Australia",
+        "AQI": 23,
+        "PM25": 18.4,
+        "PM10": 23.9,
+        "Date": "2025-11-22"
+    },
+    {
+        "id": 454,
+        "City": "Bangkok",
+        "Country": "Thailand",
+        "AQI": 108,
+        "PM25": 86.4,
+        "PM10": 138.2,
+        "Date": "2025-11-22"
+    },
+    {
+        "id": 455,
+        "City": "Singapore",
+        "Country": "Singapore",
+        "AQI": 42,
+        "PM25": 33.6,
+        "PM10": 47.0,
+        "Date": "2025-11-22"
+    },
+    {
+        "id": 456,
+        "City": "Kuala Lumpur",
+        "Country": "Malaysia",
+        "AQI": 84,
+        "PM25": 67.2,
+        "PM10": 100.8,
+        "Date": "2025-11-22"
+    },
+    {
+        "id": 457,
+        "City": "Jakarta",
+        "Country": "Indonesia",
+        "AQI": 158,
+        "PM25": 126.4,
+        "PM10": 202.2,
+        "Date": "2025-11-22"
+    },
+    {
+        "id": 458,
+        "City": "Manila",
+        "Country": "Philippines",
+        "AQI": 83,
+        "PM25": 66.4,
+        "PM10": 106.2,
+        "Date": "2025-11-22"
+    },
+    {
+        "id": 459,
+        "City": "Beijing",
+        "Country": "China",
+        "AQI": 199,
+        "PM25": 159.2,
+        "PM10": 254.7,
+        "Date": "2025-11-22"
+    },
+    {
+        "id": 460,
+        "City": "Shanghai",
+        "Country": "China",
+        "AQI": 97,
+        "PM25": 77.6,
+        "PM10": 124.2,
+        "Date": "2025-11-22"
+    },
+    {
+        "id": 461,
+        "City": "Hanoi",
+        "Country": "Vietnam",
+        "AQI": 123,
+        "PM25": 98.4,
+        "PM10": 157.4,
+        "Date": "2025-11-21"
+    },
+    {
+        "id": 462,
+        "City": "Saigon",
+        "Country": "Vietnam",
+        "AQI": 118,
+        "PM25": 94.4,
+        "PM10": 151.0,
+        "Date": "2025-11-21"
+    },
+    {
+        "id": 463,
+        "City": "Perth",
+        "Country": "Australia",
+        "AQI": 32,
+        "PM25": 25.6,
+        "PM10": 33.3,
+        "Date": "2025-11-21"
+    },
+    {
+        "id": 464,
+        "City": "Bangkok",
+        "Country": "Thailand",
+        "AQI": 130,
+        "PM25": 104.0,
+        "PM10": 166.4,
+        "Date": "2025-11-21"
+    },
+    {
+        "id": 465,
+        "City": "Singapore",
+        "Country": "Singapore",
+        "AQI": 57,
+        "PM25": 45.6,
+        "PM10": 63.8,
+        "Date": "2025-11-21"
+    },
+    {
+        "id": 466,
+        "City": "Kuala Lumpur",
+        "Country": "Malaysia",
+        "AQI": 65,
+        "PM25": 52.0,
+        "PM10": 78.0,
+        "Date": "2025-11-21"
+    },
+    {
+        "id": 467,
+        "City": "Jakarta",
+        "Country": "Indonesia",
+        "AQI": 139,
+        "PM25": 111.2,
+        "PM10": 177.9,
+        "Date": "2025-11-21"
+    },
+    {
+        "id": 468,
+        "City": "Manila",
+        "Country": "Philippines",
+        "AQI": 99,
+        "PM25": 79.2,
+        "PM10": 126.7,
+        "Date": "2025-11-21"
+    },
+    {
+        "id": 469,
+        "City": "Beijing",
+        "Country": "China",
+        "AQI": 160,
+        "PM25": 128.0,
+        "PM10": 204.8,
+        "Date": "2025-11-21"
+    },
+    {
+        "id": 470,
+        "City": "Shanghai",
+        "Country": "China",
+        "AQI": 64,
+        "PM25": 51.2,
+        "PM10": 81.9,
+        "Date": "2025-11-21"
+    },
+    {
+        "id": 471,
+        "City": "Hanoi",
+        "Country": "Vietnam",
+        "AQI": 125,
+        "PM25": 100.0,
+        "PM10": 160.0,
+        "Date": "2025-11-20"
+    },
+    {
+        "id": 472,
+        "City": "Saigon",
+        "Country": "Vietnam",
+        "AQI": 70,
+        "PM25": 56.0,
+        "PM10": 89.6,
+        "Date": "2025-11-20"
+    },
+    {
+        "id": 473,
+        "City": "Perth",
+        "Country": "Australia",
+        "AQI": 25,
+        "PM25": 20.0,
+        "PM10": 26.0,
+        "Date": "2025-11-20"
+    },
+    {
+        "id": 474,
+        "City": "Bangkok",
+        "Country": "Thailand",
+        "AQI": 115,
+        "PM25": 92.0,
+        "PM10": 147.2,
+        "Date": "2025-11-20"
+    },
+    {
+        "id": 475,
+        "City": "Singapore",
+        "Country": "Singapore",
+        "AQI": 67,
+        "PM25": 53.6,
+        "PM10": 75.0,
+        "Date": "2025-11-20"
+    },
+    {
+        "id": 476,
+        "City": "Kuala Lumpur",
+        "Country": "Malaysia",
+        "AQI": 65,
+        "PM25": 52.0,
+        "PM10": 78.0,
+        "Date": "2025-11-20"
+    },
+    {
+        "id": 477,
+        "City": "Jakarta",
+        "Country": "Indonesia",
+        "AQI": 134,
+        "PM25": 107.2,
+        "PM10": 171.5,
+        "Date": "2025-11-20"
+    },
+    {
+        "id": 478,
+        "City": "Manila",
+        "Country": "Philippines",
+        "AQI": 88,
+        "PM25": 70.4,
+        "PM10": 112.6,
+        "Date": "2025-11-20"
+    },
+    {
+        "id": 479,
+        "City": "Beijing",
+        "Country": "China",
+        "AQI": 141,
+        "PM25": 112.8,
+        "PM10": 180.5,
+        "Date": "2025-11-20"
+    },
+    {
+        "id": 480,
+        "City": "Shanghai",
+        "Country": "China",
+        "AQI": 93,
+        "PM25": 74.4,
+        "PM10": 119.0,
+        "Date": "2025-11-20"
+    },
+    {
+        "id": 481,
+        "City": "Hanoi",
+        "Country": "Vietnam",
+        "AQI": 160,
+        "PM25": 128.0,
+        "PM10": 204.8,
+        "Date": "2025-11-19"
+    },
+    {
+        "id": 482,
+        "City": "Saigon",
+        "Country": "Vietnam",
+        "AQI": 94,
+        "PM25": 75.2,
+        "PM10": 120.3,
+        "Date": "2025-11-19"
+    },
+    {
+        "id": 483,
+        "City": "Perth",
+        "Country": "Australia",
+        "AQI": 34,
+        "PM25": 27.2,
+        "PM10": 35.4,
+        "Date": "2025-11-19"
+    },
+    {
+        "id": 484,
+        "City": "Bangkok",
+        "Country": "Thailand",
+        "AQI": 108,
+        "PM25": 86.4,
+        "PM10": 138.2,
+        "Date": "2025-11-19"
+    },
+    {
+        "id": 485,
+        "City": "Singapore",
+        "Country": "Singapore",
+        "AQI": 43,
+        "PM25": 34.4,
+        "PM10": 48.2,
+        "Date": "2025-11-19"
+    },
+    {
+        "id": 486,
+        "City": "Kuala Lumpur",
+        "Country": "Malaysia",
+        "AQI": 87,
+        "PM25": 69.6,
+        "PM10": 104.4,
+        "Date": "2025-11-19"
+    },
+    {
+        "id": 487,
+        "City": "Jakarta",
+        "Country": "Indonesia",
+        "AQI": 134,
+        "PM25": 107.2,
+        "PM10": 171.5,
+        "Date": "2025-11-19"
+    },
+    {
+        "id": 488,
+        "City": "Manila",
+        "Country": "Philippines",
+        "AQI": 80,
+        "PM25": 64.0,
+        "PM10": 102.4,
+        "Date": "2025-11-19"
+    },
+    {
+        "id": 489,
+        "City": "Beijing",
+        "Country": "China",
+        "AQI": 52,
+        "PM25": 41.6,
+        "PM10": 66.6,
+        "Date": "2025-11-19"
+    },
+    {
+        "id": 490,
+        "City": "Shanghai",
+        "Country": "China",
+        "AQI": 66,
+        "PM25": 52.8,
+        "PM10": 84.5,
+        "Date": "2025-11-19"
+    },
+    {
+        "id": 491,
+        "City": "Hanoi",
+        "Country": "Vietnam",
+        "AQI": 128,
+        "PM25": 102.4,
+        "PM10": 163.8,
+        "Date": "2025-11-18"
+    },
+    {
+        "id": 492,
+        "City": "Saigon",
+        "Country": "Vietnam",
+        "AQI": 71,
+        "PM25": 56.8,
+        "PM10": 90.9,
+        "Date": "2025-11-18"
+    },
+    {
+        "id": 493,
+        "City": "Perth",
+        "Country": "Australia",
+        "AQI": 32,
+        "PM25": 25.6,
+        "PM10": 33.3,
+        "Date": "2025-11-18"
+    },
+    {
+        "id": 494,
+        "City": "Bangkok",
+        "Country": "Thailand",
+        "AQI": 146,
+        "PM25": 116.8,
+        "PM10": 186.9,
+        "Date": "2025-11-18"
+    },
+    {
+        "id": 495,
+        "City": "Singapore",
+        "Country": "Singapore",
+        "AQI": 56,
+        "PM25": 44.8,
+        "PM10": 62.7,
+        "Date": "2025-11-18"
+    },
+    {
+        "id": 496,
+        "City": "Kuala Lumpur",
+        "Country": "Malaysia",
+        "AQI": 80,
+        "PM25": 64.0,
+        "PM10": 96.0,
+        "Date": "2025-11-18"
+    },
+    {
+        "id": 497,
+        "City": "Jakarta",
+        "Country": "Indonesia",
+        "AQI": 145,
+        "PM25": 116.0,
+        "PM10": 185.6,
+        "Date": "2025-11-18"
+    },
+    {
+        "id": 498,
+        "City": "Manila",
+        "Country": "Philippines",
+        "AQI": 110,
+        "PM25": 88.0,
+        "PM10": 140.8,
+        "Date": "2025-11-18"
+    },
+    {
+        "id": 499,
+        "City": "Beijing",
+        "Country": "China",
+        "AQI": 151,
+        "PM25": 120.8,
+        "PM10": 193.3,
+        "Date": "2025-11-18"
+    },
+    {
+        "id": 500,
+        "City": "Shanghai",
+        "Country": "China",
+        "AQI": 96,
+        "PM25": 76.8,
+        "PM10": 122.9,
+        "Date": "2025-11-18"
+    },
+    {
+        "id": 501,
+        "City": "Hanoi",
+        "Country": "Vietnam",
+        "AQI": 149,
+        "PM25": 119.2,
+        "PM10": 190.7,
+        "Date": "2025-11-17"
+    },
+    {
+        "id": 502,
+        "City": "Saigon",
+        "Country": "Vietnam",
+        "AQI": 74,
+        "PM25": 59.2,
+        "PM10": 94.7,
+        "Date": "2025-11-17"
+    },
+    {
+        "id": 503,
+        "City": "Perth",
+        "Country": "Australia",
+        "AQI": 35,
+        "PM25": 28.0,
+        "PM10": 36.4,
+        "Date": "2025-11-17"
+    },
+    {
+        "id": 504,
+        "City": "Bangkok",
+        "Country": "Thailand",
+        "AQI": 128,
+        "PM25": 102.4,
+        "PM10": 163.8,
+        "Date": "2025-11-17"
+    },
+    {
+        "id": 505,
+        "City": "Singapore",
+        "Country": "Singapore",
+        "AQI": 52,
+        "PM25": 41.6,
+        "PM10": 58.2,
+        "Date": "2025-11-17"
+    },
+    {
+        "id": 506,
+        "City": "Kuala Lumpur",
+        "Country": "Malaysia",
+        "AQI": 51,
+        "PM25": 40.8,
+        "PM10": 61.2,
+        "Date": "2025-11-17"
+    },
+    {
+        "id": 507,
+        "City": "Jakarta",
+        "Country": "Indonesia",
+        "AQI": 131,
+        "PM25": 104.8,
+        "PM10": 167.7,
+        "Date": "2025-11-17"
+    },
+    {
+        "id": 508,
+        "City": "Manila",
+        "Country": "Philippines",
+        "AQI": 106,
+        "PM25": 84.8,
+        "PM10": 135.7,
+        "Date": "2025-11-17"
+    },
+    {
+        "id": 509,
+        "City": "Beijing",
+        "Country": "China",
+        "AQI": 106,
+        "PM25": 84.8,
+        "PM10": 135.7,
+        "Date": "2025-11-17"
+    },
+    {
+        "id": 510,
+        "City": "Shanghai",
+        "Country": "China",
+        "AQI": 73,
+        "PM25": 58.4,
+        "PM10": 93.4,
+        "Date": "2025-11-17"
+    },
+    {
+        "id": 511,
+        "City": "Hanoi",
+        "Country": "Vietnam",
+        "AQI": 179,
+        "PM25": 143.2,
+        "PM10": 229.1,
+        "Date": "2025-11-16"
+    },
+    {
+        "id": 512,
+        "City": "Saigon",
+        "Country": "Vietnam",
+        "AQI": 105,
+        "PM25": 84.0,
+        "PM10": 134.4,
+        "Date": "2025-11-16"
+    },
+    {
+        "id": 513,
+        "City": "Perth",
+        "Country": "Australia",
+        "AQI": 17,
+        "PM25": 13.6,
+        "PM10": 17.7,
+        "Date": "2025-11-16"
+    },
+    {
+        "id": 514,
+        "City": "Bangkok",
+        "Country": "Thailand",
+        "AQI": 139,
+        "PM25": 111.2,
+        "PM10": 177.9,
+        "Date": "2025-11-16"
+    },
+    {
+        "id": 515,
+        "City": "Singapore",
+        "Country": "Singapore",
+        "AQI": 56,
+        "PM25": 44.8,
+        "PM10": 62.7,
+        "Date": "2025-11-16"
+    },
+    {
+        "id": 516,
+        "City": "Kuala Lumpur",
+        "Country": "Malaysia",
+        "AQI": 89,
+        "PM25": 71.2,
+        "PM10": 106.8,
+        "Date": "2025-11-16"
+    },
+    {
+        "id": 517,
+        "City": "Jakarta",
+        "Country": "Indonesia",
+        "AQI": 148,
+        "PM25": 118.4,
+        "PM10": 189.4,
+        "Date": "2025-11-16"
+    },
+    {
+        "id": 518,
+        "City": "Manila",
+        "Country": "Philippines",
+        "AQI": 104,
+        "PM25": 83.2,
+        "PM10": 133.1,
+        "Date": "2025-11-16"
+    },
+    {
+        "id": 519,
+        "City": "Beijing",
+        "Country": "China",
+        "AQI": 177,
+        "PM25": 141.6,
+        "PM10": 226.6,
+        "Date": "2025-11-16"
+    },
+    {
+        "id": 520,
+        "City": "Shanghai",
+        "Country": "China",
+        "AQI": 105,
+        "PM25": 84.0,
+        "PM10": 134.4,
+        "Date": "2025-11-16"
+    },
+    {
+        "id": 521,
+        "City": "Hanoi",
+        "Country": "Vietnam",
+        "AQI": 140,
+        "PM25": 112.0,
+        "PM10": 179.2,
+        "Date": "2025-11-15"
+    },
+    {
+        "id": 522,
+        "City": "Saigon",
+        "Country": "Vietnam",
+        "AQI": 113,
+        "PM25": 90.4,
+        "PM10": 144.6,
+        "Date": "2025-11-15"
+    },
+    {
+        "id": 523,
+        "City": "Perth",
+        "Country": "Australia",
+        "AQI": 22,
+        "PM25": 17.6,
+        "PM10": 22.9,
+        "Date": "2025-11-15"
+    },
+    {
+        "id": 524,
+        "City": "Bangkok",
+        "Country": "Thailand",
+        "AQI": 155,
+        "PM25": 124.0,
+        "PM10": 198.4,
+        "Date": "2025-11-15"
+    },
+    {
+        "id": 525,
+        "City": "Singapore",
+        "Country": "Singapore",
+        "AQI": 49,
+        "PM25": 39.2,
+        "PM10": 54.9,
+        "Date": "2025-11-15"
+    },
+    {
+        "id": 526,
+        "City": "Kuala Lumpur",
+        "Country": "Malaysia",
+        "AQI": 85,
+        "PM25": 68.0,
+        "PM10": 102.0,
+        "Date": "2025-11-15"
+    },
+    {
+        "id": 527,
+        "City": "Jakarta",
+        "Country": "Indonesia",
+        "AQI": 126,
+        "PM25": 100.8,
+        "PM10": 161.3,
+        "Date": "2025-11-15"
+    },
+    {
+        "id": 528,
+        "City": "Manila",
+        "Country": "Philippines",
+        "AQI": 89,
+        "PM25": 71.2,
+        "PM10": 113.9,
+        "Date": "2025-11-15"
+    },
+    {
+        "id": 529,
+        "City": "Beijing",
+        "Country": "China",
+        "AQI": 155,
+        "PM25": 124.0,
+        "PM10": 198.4,
+        "Date": "2025-11-15"
+    },
+    {
+        "id": 530,
+        "City": "Shanghai",
+        "Country": "China",
+        "AQI": 134,
+        "PM25": 107.2,
+        "PM10": 171.5,
+        "Date": "2025-11-15"
+    },
+    {
+        "id": 531,
+        "City": "Hanoi",
+        "Country": "Vietnam",
+        "AQI": 157,
+        "PM25": 125.6,
+        "PM10": 201.0,
+        "Date": "2025-11-14"
+    },
+    {
+        "id": 532,
+        "City": "Saigon",
+        "Country": "Vietnam",
+        "AQI": 79,
+        "PM25": 63.2,
+        "PM10": 101.1,
+        "Date": "2025-11-14"
+    },
+    {
+        "id": 533,
+        "City": "Perth",
+        "Country": "Australia",
+        "AQI": 11,
+        "PM25": 8.8,
+        "PM10": 11.4,
+        "Date": "2025-11-14"
+    },
+    {
+        "id": 534,
+        "City": "Bangkok",
+        "Country": "Thailand",
+        "AQI": 139,
+        "PM25": 111.2,
+        "PM10": 177.9,
+        "Date": "2025-11-14"
+    },
+    {
+        "id": 535,
+        "City": "Singapore",
+        "Country": "Singapore",
+        "AQI": 45,
+        "PM25": 36.0,
+        "PM10": 50.4,
+        "Date": "2025-11-14"
+    },
+    {
+        "id": 536,
+        "City": "Kuala Lumpur",
+        "Country": "Malaysia",
+        "AQI": 68,
+        "PM25": 54.4,
+        "PM10": 81.6,
+        "Date": "2025-11-14"
+    },
+    {
+        "id": 537,
+        "City": "Jakarta",
+        "Country": "Indonesia",
+        "AQI": 132,
+        "PM25": 105.6,
+        "PM10": 169.0,
+        "Date": "2025-11-14"
+    },
+    {
+        "id": 538,
+        "City": "Manila",
+        "Country": "Philippines",
+        "AQI": 115,
+        "PM25": 92.0,
+        "PM10": 147.2,
+        "Date": "2025-11-14"
+    },
+    {
+        "id": 539,
+        "City": "Beijing",
+        "Country": "China",
+        "AQI": 192,
+        "PM25": 153.6,
+        "PM10": 245.8,
+        "Date": "2025-11-14"
+    },
+    {
+        "id": 540,
+        "City": "Shanghai",
+        "Country": "China",
+        "AQI": 85,
+        "PM25": 68.0,
+        "PM10": 108.8,
+        "Date": "2025-11-14"
+    },
+    {
+        "id": 541,
+        "City": "Hanoi",
+        "Country": "Vietnam",
+        "AQI": 151,
+        "PM25": 120.8,
+        "PM10": 193.3,
+        "Date": "2025-11-13"
+    },
+    {
+        "id": 542,
+        "City": "Saigon",
+        "Country": "Vietnam",
+        "AQI": 85,
+        "PM25": 68.0,
+        "PM10": 108.8,
+        "Date": "2025-11-13"
+    },
+    {
+        "id": 543,
+        "City": "Perth",
+        "Country": "Australia",
+        "AQI": 21,
+        "PM25": 16.8,
+        "PM10": 21.8,
+        "Date": "2025-11-13"
+    },
+    {
+        "id": 544,
+        "City": "Bangkok",
+        "Country": "Thailand",
+        "AQI": 132,
+        "PM25": 105.6,
+        "PM10": 169.0,
+        "Date": "2025-11-13"
+    },
+    {
+        "id": 545,
+        "City": "Singapore",
+        "Country": "Singapore",
+        "AQI": 43,
+        "PM25": 34.4,
+        "PM10": 48.2,
+        "Date": "2025-11-13"
+    },
+    {
+        "id": 546,
+        "City": "Kuala Lumpur",
+        "Country": "Malaysia",
+        "AQI": 65,
+        "PM25": 52.0,
+        "PM10": 78.0,
+        "Date": "2025-11-13"
+    },
+    {
+        "id": 547,
+        "City": "Jakarta",
+        "Country": "Indonesia",
+        "AQI": 146,
+        "PM25": 116.8,
+        "PM10": 186.9,
+        "Date": "2025-11-13"
+    },
+    {
+        "id": 548,
+        "City": "Manila",
+        "Country": "Philippines",
+        "AQI": 89,
+        "PM25": 71.2,
+        "PM10": 113.9,
+        "Date": "2025-11-13"
+    },
+    {
+        "id": 549,
+        "City": "Beijing",
+        "Country": "China",
+        "AQI": 87,
+        "PM25": 69.6,
+        "PM10": 111.4,
+        "Date": "2025-11-13"
+    },
+    {
+        "id": 550,
+        "City": "Shanghai",
+        "Country": "China",
+        "AQI": 58,
+        "PM25": 46.4,
+        "PM10": 74.2,
+        "Date": "2025-11-13"
+    },
+    {
+        "id": 551,
+        "City": "Hanoi",
+        "Country": "Vietnam",
+        "AQI": 181,
+        "PM25": 144.8,
+        "PM10": 231.7,
+        "Date": "2025-11-12"
+    },
+    {
+        "id": 552,
+        "City": "Saigon",
+        "Country": "Vietnam",
+        "AQI": 82,
+        "PM25": 65.6,
+        "PM10": 105.0,
+        "Date": "2025-11-12"
+    },
+    {
+        "id": 553,
+        "City": "Perth",
+        "Country": "Australia",
+        "AQI": 28,
+        "PM25": 22.4,
+        "PM10": 29.1,
+        "Date": "2025-11-12"
+    },
+    {
+        "id": 554,
+        "City": "Bangkok",
+        "Country": "Thailand",
+        "AQI": 106,
+        "PM25": 84.8,
+        "PM10": 135.7,
+        "Date": "2025-11-12"
+    },
+    {
+        "id": 555,
+        "City": "Singapore",
+        "Country": "Singapore",
+        "AQI": 42,
+        "PM25": 33.6,
+        "PM10": 47.0,
+        "Date": "2025-11-12"
+    },
+    {
+        "id": 556,
+        "City": "Kuala Lumpur",
+        "Country": "Malaysia",
+        "AQI": 57,
+        "PM25": 45.6,
+        "PM10": 68.4,
+        "Date": "2025-11-12"
+    },
+    {
+        "id": 557,
+        "City": "Jakarta",
+        "Country": "Indonesia",
+        "AQI": 127,
+        "PM25": 101.6,
+        "PM10": 162.6,
+        "Date": "2025-11-12"
+    },
+    {
+        "id": 558,
+        "City": "Manila",
+        "Country": "Philippines",
+        "AQI": 101,
+        "PM25": 80.8,
+        "PM10": 129.3,
+        "Date": "2025-11-12"
+    },
+    {
+        "id": 559,
+        "City": "Beijing",
+        "Country": "China",
+        "AQI": 183,
+        "PM25": 146.4,
+        "PM10": 234.2,
+        "Date": "2025-11-12"
+    },
+    {
+        "id": 560,
+        "City": "Shanghai",
+        "Country": "China",
+        "AQI": 104,
+        "PM25": 83.2,
+        "PM10": 133.1,
+        "Date": "2025-11-12"
+    },
+    {
+        "id": 561,
+        "City": "Hanoi",
+        "Country": "Vietnam",
+        "AQI": 180,
+        "PM25": 144.0,
+        "PM10": 230.4,
+        "Date": "2025-11-11"
+    },
+    {
+        "id": 562,
+        "City": "Saigon",
+        "Country": "Vietnam",
+        "AQI": 105,
+        "PM25": 84.0,
+        "PM10": 134.4,
+        "Date": "2025-11-11"
+    },
+    {
+        "id": 563,
+        "City": "Perth",
+        "Country": "Australia",
+        "AQI": 31,
+        "PM25": 24.8,
+        "PM10": 32.2,
+        "Date": "2025-11-11"
+    },
+    {
+        "id": 564,
+        "City": "Bangkok",
+        "Country": "Thailand",
+        "AQI": 113,
+        "PM25": 90.4,
+        "PM10": 144.6,
+        "Date": "2025-11-11"
+    },
+    {
+        "id": 565,
+        "City": "Singapore",
+        "Country": "Singapore",
+        "AQI": 48,
+        "PM25": 38.4,
+        "PM10": 53.8,
+        "Date": "2025-11-11"
+    },
+    {
+        "id": 566,
+        "City": "Kuala Lumpur",
+        "Country": "Malaysia",
+        "AQI": 72,
+        "PM25": 57.6,
+        "PM10": 86.4,
+        "Date": "2025-11-11"
+    },
+    {
+        "id": 567,
+        "City": "Jakarta",
+        "Country": "Indonesia",
+        "AQI": 123,
+        "PM25": 98.4,
+        "PM10": 157.4,
+        "Date": "2025-11-11"
+    },
+    {
+        "id": 568,
+        "City": "Manila",
+        "Country": "Philippines",
+        "AQI": 104,
+        "PM25": 83.2,
+        "PM10": 133.1,
+        "Date": "2025-11-11"
+    },
+    {
+        "id": 569,
+        "City": "Beijing",
+        "Country": "China",
+        "AQI": 170,
+        "PM25": 136.0,
+        "PM10": 217.6,
+        "Date": "2025-11-11"
+    },
+    {
+        "id": 570,
+        "City": "Shanghai",
+        "Country": "China",
+        "AQI": 75,
+        "PM25": 60.0,
+        "PM10": 96.0,
+        "Date": "2025-11-11"
+    },
+    {
+        "id": 571,
+        "City": "Hanoi",
+        "Country": "Vietnam",
+        "AQI": 184,
+        "PM25": 147.2,
+        "PM10": 235.5,
+        "Date": "2025-11-10"
+    },
+    {
+        "id": 572,
+        "City": "Saigon",
+        "Country": "Vietnam",
+        "AQI": 96,
+        "PM25": 76.8,
+        "PM10": 122.9,
+        "Date": "2025-11-10"
+    },
+    {
+        "id": 573,
+        "City": "Perth",
+        "Country": "Australia",
+        "AQI": 15,
+        "PM25": 12.0,
+        "PM10": 15.6,
+        "Date": "2025-11-10"
+    },
+    {
+        "id": 574,
+        "City": "Bangkok",
+        "Country": "Thailand",
+        "AQI": 129,
+        "PM25": 103.2,
+        "PM10": 165.1,
+        "Date": "2025-11-10"
+    },
+    {
+        "id": 575,
+        "City": "Singapore",
+        "Country": "Singapore",
+        "AQI": 62,
+        "PM25": 49.6,
+        "PM10": 69.4,
+        "Date": "2025-11-10"
+    },
+    {
+        "id": 576,
+        "City": "Kuala Lumpur",
+        "Country": "Malaysia",
+        "AQI": 52,
+        "PM25": 41.6,
+        "PM10": 62.4,
+        "Date": "2025-11-10"
+    },
+    {
+        "id": 577,
+        "City": "Jakarta",
+        "Country": "Indonesia",
+        "AQI": 127,
+        "PM25": 101.6,
+        "PM10": 162.6,
+        "Date": "2025-11-10"
+    },
+    {
+        "id": 578,
+        "City": "Manila",
+        "Country": "Philippines",
+        "AQI": 111,
+        "PM25": 88.8,
+        "PM10": 142.1,
+        "Date": "2025-11-10"
+    },
+    {
+        "id": 579,
+        "City": "Beijing",
+        "Country": "China",
+        "AQI": 174,
+        "PM25": 139.2,
+        "PM10": 222.7,
+        "Date": "2025-11-10"
+    },
+    {
+        "id": 580,
+        "City": "Shanghai",
+        "Country": "China",
+        "AQI": 85,
+        "PM25": 68.0,
+        "PM10": 108.8,
+        "Date": "2025-11-10"
+    },
+    {
+        "id": 581,
+        "City": "Hanoi",
+        "Country": "Vietnam",
+        "AQI": 185,
+        "PM25": 148.0,
+        "PM10": 236.8,
+        "Date": "2025-11-09"
+    },
+    {
+        "id": 582,
+        "City": "Saigon",
+        "Country": "Vietnam",
+        "AQI": 92,
+        "PM25": 73.6,
+        "PM10": 117.8,
+        "Date": "2025-11-09"
+    },
+    {
+        "id": 583,
+        "City": "Perth",
+        "Country": "Australia",
+        "AQI": 19,
+        "PM25": 15.2,
+        "PM10": 19.8,
+        "Date": "2025-11-09"
+    },
+    {
+        "id": 584,
+        "City": "Bangkok",
+        "Country": "Thailand",
+        "AQI": 100,
+        "PM25": 80.0,
+        "PM10": 128.0,
+        "Date": "2025-11-09"
+    },
+    {
+        "id": 585,
+        "City": "Singapore",
+        "Country": "Singapore",
+        "AQI": 60,
+        "PM25": 48.0,
+        "PM10": 67.2,
+        "Date": "2025-11-09"
+    },
+    {
+        "id": 586,
+        "City": "Kuala Lumpur",
+        "Country": "Malaysia",
+        "AQI": 60,
+        "PM25": 48.0,
+        "PM10": 72.0,
+        "Date": "2025-11-09"
+    },
+    {
+        "id": 587,
+        "City": "Jakarta",
+        "Country": "Indonesia",
+        "AQI": 165,
+        "PM25": 132.0,
+        "PM10": 211.2,
+        "Date": "2025-11-09"
+    },
+    {
+        "id": 588,
+        "City": "Manila",
+        "Country": "Philippines",
+        "AQI": 89,
+        "PM25": 71.2,
+        "PM10": 113.9,
+        "Date": "2025-11-09"
+    },
+    {
+        "id": 589,
+        "City": "Beijing",
+        "Country": "China",
+        "AQI": 99,
+        "PM25": 79.2,
+        "PM10": 126.7,
+        "Date": "2025-11-09"
+    },
+    {
+        "id": 590,
+        "City": "Shanghai",
+        "Country": "China",
+        "AQI": 79,
+        "PM25": 63.2,
+        "PM10": 101.1,
+        "Date": "2025-11-09"
+    },
+    {
+        "id": 591,
+        "City": "Hanoi",
+        "Country": "Vietnam",
+        "AQI": 167,
+        "PM25": 133.6,
+        "PM10": 213.8,
+        "Date": "2025-11-08"
+    },
+    {
+        "id": 592,
+        "City": "Saigon",
+        "Country": "Vietnam",
+        "AQI": 100,
+        "PM25": 80.0,
+        "PM10": 128.0,
+        "Date": "2025-11-08"
+    },
+    {
+        "id": 593,
+        "City": "Perth",
+        "Country": "Australia",
+        "AQI": 12,
+        "PM25": 9.6,
+        "PM10": 12.5,
+        "Date": "2025-11-08"
+    },
+    {
+        "id": 594,
+        "City": "Bangkok",
+        "Country": "Thailand",
+        "AQI": 131,
+        "PM25": 104.8,
+        "PM10": 167.7,
+        "Date": "2025-11-08"
+    },
+    {
+        "id": 595,
+        "City": "Singapore",
+        "Country": "Singapore",
+        "AQI": 44,
+        "PM25": 35.2,
+        "PM10": 49.3,
+        "Date": "2025-11-08"
+    },
+    {
+        "id": 596,
+        "City": "Kuala Lumpur",
+        "Country": "Malaysia",
+        "AQI": 77,
+        "PM25": 61.6,
+        "PM10": 92.4,
+        "Date": "2025-11-08"
+    },
+    {
+        "id": 597,
+        "City": "Jakarta",
+        "Country": "Indonesia",
+        "AQI": 137,
+        "PM25": 109.6,
+        "PM10": 175.4,
+        "Date": "2025-11-08"
+    },
+    {
+        "id": 598,
+        "City": "Manila",
+        "Country": "Philippines",
+        "AQI": 90,
+        "PM25": 72.0,
+        "PM10": 115.2,
+        "Date": "2025-11-08"
+    },
+    {
+        "id": 599,
+        "City": "Beijing",
+        "Country": "China",
+        "AQI": 183,
+        "PM25": 146.4,
+        "PM10": 234.2,
+        "Date": "2025-11-08"
+    },
+    {
+        "id": 600,
+        "City": "Shanghai",
+        "Country": "China",
+        "AQI": 52,
+        "PM25": 41.6,
+        "PM10": 66.6,
+        "Date": "2025-11-08"
+    }
+]

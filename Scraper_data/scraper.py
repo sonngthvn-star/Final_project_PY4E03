@@ -20,8 +20,8 @@ from smooth_clean_api import AirQualityCleaner # library (class) to clean and sm
 from generate_history import AQI_history # library (class) to generate simulated historical air quality data
 
 
-aq_path = Path("./air_quality.json") # Define path to save the scraped air quality data
-his_path = Path("./history_air_quality.json") # Define path to save the simulated historical data
+aq_path = Path("./data/air_quality.json") # Define path to save the scraped air quality data
+his_path = Path("./data/history_air_quality.json") # Define path to save the simulated historical data
 
 TOKEN = "b4fd2856b2c8d8bb8a4b456bd88f8ae7366c753c" # My token to access WAQI API
 
@@ -118,55 +118,5 @@ AirQualityCleaner(aq_path).smooth_air_quality_data() # Call AirQualityCleaner (c
 # Generate history data: Ensure this class also overwrites
 print (f'Commence mocking a history dataset and save to file {his_path} ...')
 AQI_history(his_path).generate_history_aqi(60)
-
-#=========================
-# def save_with_ids(new_data_list, target_path):
-#     """Saves data as a proper JSON array and auto-increments IDs"""
-#     # Load existing data to find the last ID
-#     if target_path.exists():
-#         with open(target_path, 'r', encoding='utf-8') as f:
-#             try:
-#                 existing_data = json.load(f)
-#             except json.JSONDecodeError:
-#                 existing_data = []
-#     else:
-#         existing_data = []
-
-#     # Get the current maximum ID
-#     current_max_id = max([item.get('id', 0) for item in existing_data], default=0)
-
-#     # Add IDs to new records and append
-#     for i, record in enumerate(new_data_list, start=1):
-#         record['id'] = current_max_id + i
-#         existing_data.append(record)
-
-#     # Save back as a clean JSON list
-#     with open(target_path, 'w', encoding='utf-8') as f:
-#         json.dump(existing_data, f, indent=4, ensure_ascii=False)
-
-# # EXECUTION LOGIC: Loop through each city and its stations to get the best available data
-# all_data = [] 
-
-# for city, sids in STATIONS_MAP.items():
-#     print(f"Checking best station for {city}...")
-#     result = get_valid_data(city, sids)
-#     if result:
-#         all_data.append(result)
-
-# # Save dataset with IDs to json file
-# print(f"Saving data with IDs to {aq_path}...")
-# save_with_ids(all_data, aq_path) # call the function to add the ID column and save dataset with IDs to json file
-
-# print('-' * 30)
-
-# ''' Continue with cleaning/history logic dataset '''
-
-# # # Manipulate and clean data after scraping
-# print(f'Commencing manipulation of {aq_path}...')
-# AirQualityCleaner(aq_path).smooth_air_quality_data() # # Call AirQualityCleaner (class) to conduct tasks required
-
-# # Generates a simulated historical air quality dataset for time series charting:
-# print (f'Commence mocking a history dataset and save to file {his_path} ...')
-# AQI_history(his_path).generate_history_aqi(60) # Call AQI_history (class) to conduct tasks required.
 
 

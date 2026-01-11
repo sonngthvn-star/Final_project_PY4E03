@@ -30,8 +30,8 @@ app = Flask(__name__, static_folder='src')
 # Apply CORS to the app to allow frontend requests instead of using the CORSMiddleware which is equivalent.
 CORS(app)
 
-ai_path = Path('./Scraper_data/air_quality.json')  # Define path to the JSON file
-his_path = Path('./Scraper_data/history_air_quality.json')  # Defile path to the history JSON file
+ai_path = Path('./Scraper_data/data/air_quality.json')  # Define path to the JSON file
+his_path = Path('./Scraper_data/data/history_air_quality.json')  # Defile path to the history JSON file
 
 # Create a function to standardize various forms of Saigon/HCMC and Kuala Lumpur to a consistency name
 def normalize_city_name(city_input):
